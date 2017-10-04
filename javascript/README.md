@@ -8,7 +8,7 @@ topic-namespace: js
 - Identify and Use JavaScript's data types and structures and their respective operations
 - Write Javascript Expressions
 - Evaluate JavaScript Expressions
-- Write control flow structures in JavaScript
+- Use control flow structures to control the flow of a program in JavaScript
 - Use the standard library to perform common operations on data with JavaScript
 - Perform and manage asynchronous operations in JavaScript
 
