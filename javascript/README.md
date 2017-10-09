@@ -10,7 +10,7 @@ topic-namespace: js
 - Evaluate JavaScript Expressions
 - [Use control flow structures to control the flow of a program in JavaScript](./core/use-control-flow-structures-to-control-the-flow-of-a-program-in-javascript.md)
 - Use the standard library to perform common operations on data with JavaScript
-- Perform and manage asynchronous operations in JavaScript
+- asdafaasfa-bc
 
 ---
 ## Course: Browser APIs
@@ -19,3 +19,4 @@ topic-namespace: js
 - Use built-in Browser APIs to control the browser
 - Use built-in Browser APIs to connect to remote hosts
 - Use modern browser tooling and APIs to improve load performance
+- test
