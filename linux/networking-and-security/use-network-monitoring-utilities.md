@@ -1,7 +1,7 @@
 
-# Set up and use a Node.js developer environment
+# Use network monitoring utilities
 
-slug: js.set-up-and-use-a-node.js-developer-environment
+slug: unix.use-network-monitoring-utilities
 
 ## Description
 todo

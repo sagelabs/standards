@@ -33,16 +33,16 @@ topic-namespace: unix
 
 
 - Use external packages to add capabilities to your machine
-- Identify your system’s hardware and properties.
-- Analyze the performance of your machine.
+- Identify your system’s hardware and properties
+- Analyze the performance of your machine
 
 
 ---
 ## Course: Networking and Security
 
 
-- Use network monitoring utilities.
-- Use secure shell.
+- Use network monitoring utilities
+- Use secure shell
 - Examine the performance of your network
 - Connect to a remote machine through SSH
 - Communicate securely across a wide area network

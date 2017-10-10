@@ -1,7 +1,7 @@
 
-# Use network monitoring utilities.
+# Use secure shell
 
-slug: unix.use-network-monitoring-utilities.
+slug: unix.use-secure-shell
 
 ## Description
 todo

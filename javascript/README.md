@@ -37,7 +37,7 @@ topic-namespace: js
 
 
 ---
-## Course: Node.js
+## Course: Nodejs
 
 
 - Set up and use a Node developer environment
@@ -55,3 +55,6 @@ topic-namespace: js
 - Use open source JavaScript packages
 - Integrate npm as your default tasks and modules manager
 - Use the npm online repository to publish a module
+
+
+---

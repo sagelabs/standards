@@ -1,7 +1,7 @@
 
-# Analyze the performance of your machine.
+# Identify your system’s hardware and properties
 
-slug: unix.analyze-the-performance-of-your-machine.
+slug: unix.identify-your-system’s-hardware-and-properties
 
 ## Description
 todo

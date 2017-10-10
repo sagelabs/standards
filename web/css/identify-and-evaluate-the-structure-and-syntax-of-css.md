@@ -1,7 +1,7 @@
 
-# Use secure shell.
+# Identify and Evaluate the structure and syntax of CSS
 
-slug: unix.use-secure-shell.
+slug: web.identify-and-evaluate-the-structure-and-syntax-of-css
 
 ## Description
 todo
