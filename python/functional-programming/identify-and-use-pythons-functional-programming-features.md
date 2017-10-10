@@ -1,7 +1,7 @@
 
-# Use Python’s standard library to perform common operations on data
+# Identify and use Python’s functional programming features
 
-slug: py.use-python’s-standard-library-to-perform-common-operations-on-data
+slug: py.identify-and-use-pythons-functional-programming-features
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

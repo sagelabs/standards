@@ -1,7 +1,7 @@
 
-# Direct program input and output using stdin, stdout, pipes and redirection
+# Identify your system’s hardware and properties
 
-slug: unix.direct-program-input-and-output-using-stdin,-stdout,-pipes-and-redirection
+slug: unix.identify-your-systems-hardware-and-properties
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
