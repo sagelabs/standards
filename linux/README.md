@@ -18,7 +18,6 @@ topic-namespace: unix
 ## Course: Jobs and Processes
 
 
-- Use system administration tools to manage processes in Linux
 - Use scheduling utilities to automate processes
 - Edit text streams with compound sed statements
 - Analyze complex sed statements and determine their result
@@ -26,6 +25,7 @@ topic-namespace: unix
 - Aggregate data in text files with awk
 - Clean data in text files with awk
 - Search files with grep
+- Testing this standard
 
 
 ---
@@ -34,7 +34,7 @@ topic-namespace: unix
 
 - Use external packages to add capabilities to your machine
 - Identify your system’s hardware and properties.
-- Analyze the performance of your machine.
+- Analyze the performance of your machine rename
 
 
 ---
