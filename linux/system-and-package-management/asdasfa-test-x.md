@@ -1,7 +1,7 @@
 
-# Connect to a remote machine through SSH.
+# asdasfa test, x
 
-slug: unix.connect-to-a-remote-machine-through-ssh.
+slug: unix.asdasfa-test-x
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
