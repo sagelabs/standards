@@ -19,7 +19,7 @@ topic-namespace: unix
 
 - Use system administration tools to manage processes in Linux
 - Use scheduling utilities to automate processes
-- Edit text streams with compound sed statements a
+- Edit text streams with compound sed statements as
 - Analyze complex sed statements and determine their result
 - Search files with awk
 - Aggregate data in text files with awk
