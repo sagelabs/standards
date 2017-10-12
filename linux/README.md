@@ -11,7 +11,6 @@ topic-namespace: unix
 - Direct program input and output using stdin, stdout, pipes and redirection
 - Manage users and their permissions
 - Manage files and their permissions
-- Write simple expressions
 
 
 ---
@@ -20,7 +19,7 @@ topic-namespace: unix
 
 - Use system administration tools to manage processes in Linux
 - Use scheduling utilities to automate processes
-- Edit text streams with compound sed statements
+- Edit text streams with compound sed statements a
 - Analyze complex sed statements and determine their result
 - Search files with awk
 - Aggregate data in text files with awk
@@ -46,3 +45,4 @@ topic-namespace: unix
 - Examine the performance of your network
 - Connect to a remote machine through SSH
 - Communicate securely across a wide area network
+- testing here
