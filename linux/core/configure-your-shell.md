@@ -1,7 +1,7 @@
 
-# Configure your shell
+# testing
 
-slug: unix.configure-your-shell
+slug: unix.testing
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
