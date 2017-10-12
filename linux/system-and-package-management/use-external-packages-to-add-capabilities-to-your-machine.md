@@ -1,5 +1,5 @@
 
-# Analyze the performance of your machine
+# [Analyze the performance of your machine](.linux/system-and-package-management/analyze-the-performance-of-your-machine.md)
 
 slug: unix.analyze-the-performance-of-your-machine
 
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
