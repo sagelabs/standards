@@ -35,7 +35,7 @@ topic-namespace: unix
 
 - [Use external packages to add capabilities to your machine](.linux/system-and-package-management/use-external-packages-to-add-capabilities-to-your-machine.md)
 - [Identify your system’s hardware and properties](.linux/system-and-package-management/identify-your-systems-hardware-and-properties.md)
-- [Analyze the performance of your machine rename](.linux/system-and-package-management/analyze-the-performance-of-your-machine.md)
+- [Analyze the performance of your machine rename](.linux/system-and-package-management/analyze-the-performance-of-your-machine-rename.md)
 
 
 ---
