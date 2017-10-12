@@ -1,5 +1,5 @@
 
-# testing
+# [testing](.linux/core/testing.md)
 
 slug: unix.testing
 
