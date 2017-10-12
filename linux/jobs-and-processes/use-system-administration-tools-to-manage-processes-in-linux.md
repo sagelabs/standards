@@ -1,7 +1,7 @@
 
-# Use system administration tools to manage processes in Linux
+# Search files with grep
 
-slug: unix.use-system-administration-tools-to-manage-processes-in-linux
+slug: unix.search-files-with-grep
 
 ## Description
 todo
