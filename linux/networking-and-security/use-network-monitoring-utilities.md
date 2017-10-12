@@ -1,7 +1,7 @@
 
-# Use network monitoring utilities
+# Communicate securely across a wide area network
 
-slug: unix.use-network-monitoring-utilities
+slug: unix.communicate-securely-across-a-wide-area-network
 
 ## Description
 todo
