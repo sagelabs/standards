@@ -1,7 +1,7 @@
 
-# Edit text streams with compound sed statements
+# Edit text streams with compound sed statements a
 
-slug: unix.edit-text-streams-with-compound-sed-statements
+slug: unix.edit-text-streams-with-compound-sed-statements-a
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
