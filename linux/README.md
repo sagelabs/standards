@@ -6,43 +6,44 @@ topic-namespace: unix
 ---
 ## Course: Core
 
-- Configure your shell
-- Set and use environment variables
-- Direct program input and output using stdin, stdout, pipes and redirection
-- Manage users and their permissions
-- Manage files and their permissions
-- Write simple expressions
+- [Configure your shell](.linux/core/configure-your-shell.md)
+- [Set and use environment variables](.linux/core/set-and-use-environment-variables.md)
+- [Direct program input and output using stdin, stdout, pipes and redirection](.linux/core/direct-program-input-and-output-using-stdin-stdout-pipes-and-redirection.md)
+- [Manage users and their permissions](.linux/core/manage-users-and-their-permissions.md)
+- [Manage files and their permissions](.linux/core/manage-files-and-their-permissions.md)
+- [Write simple expressions](.linux/core/write-simple-expressions.md)
+- [add this test](.linux/core/add-this-test.md)
 
 
 ---
 ## Course: Jobs and Processes
 
 
-- Use system administration tools to manage processes in Linux
-- Use scheduling utilities to automate processes
-- Edit text streams with compound sed statements
-- Analyze complex sed statements and determine their result
-- Search files with awk
-- Aggregate data in text files with awk
-- Clean data in text files with awk
-- Search files with grep
+- [Use system administration tools to manage processes in Linux](.linux/jobs-and-processes/use-system-administration-tools-to-manage-processes-in-linux.md)
+- [Use scheduling utilities to automate processes](.linux/jobs-and-processes/use-scheduling-utilities-to-automate-processes.md)
+- [Edit text streams with compound sed statements](.linux/jobs-and-processes/edit-text-streams-with-compound-sed-statements.md)
+- [Analyze complex sed statements and determine their result](.linux/jobs-and-processes/analyze-complex-sed-statements-and-determine-their-result.md)
+- [Search files with awk](.linux/jobs-and-processes/search-files-with-awk.md)
+- [Aggregate data in text files with awk](.linux/jobs-and-processes/aggregate-data-in-text-files-with-awk.md)
+- [Clean data in text files with awk](.linux/jobs-and-processes/clean-data-in-text-files-with-awk.md)
+- [Search files with grep](.linux/jobs-and-processes/search-files-with-grep.md)
 
 
 ---
 ## Course: System and Package Management
 
 
-- Use external packages to add capabilities to your machine
-- Identify your system’s hardware and properties
-- Analyze the performance of your machine
+- [Use external packages to add capabilities to your machine](.linux/system-and-package-management/use-external-packages-to-add-capabilities-to-your-machine.md)
+- [Identify your system’s hardware and properties](.linux/system-and-package-management/identify-your-systems-hardware-and-properties.md)
+- [Analyze the performance of your machine rename](.linux/system-and-package-management/analyze-the-performance-of-your-machine-rename.md)
 
 
 ---
 ## Course: Networking and Security
 
 
-- Use network monitoring utilities
-- Use secure shell
-- Examine the performance of your network
-- Connect to a remote machine through SSH
-- Communicate securely across a wide area network
+- [Use network monitoring utilities](.linux/networking-and-security/use-network-monitoring-utilities.md)
+- [Use secure shell](.linux/networking-and-security/use-secure-shell.md)
+- [Examine the performance of your network](.linux/networking-and-security/examine-the-performance-of-your-network.md)
+- [Connect to a remote machine through SSH](.linux/networking-and-security/connect-to-a-remote-machine-through-ssh.md)
+- [Communicate securely across a wide area network](.linux/networking-and-security/communicate-securely-across-a-wide-area-network.md)
