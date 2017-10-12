@@ -1,7 +1,7 @@
 
-# Use network monitoring utilities
+# [Communicate securely across a wide area network](.linux/networking-and-security/communicate-securely-across-a-wide-area-network.md)
 
-slug: unix.use-network-monitoring-utilities
+slug: unix.communicate-securely-across-a-wide-area-network
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

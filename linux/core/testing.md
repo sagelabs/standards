@@ -1,7 +1,7 @@
 
-# [Search files with grep](.linux/jobs-and-processes/search-files-with-grep.md)
+# [[testing](.linux/core/testing.md)](.linux/core/testing.md)
 
-slug: unix.search-files-with-grep
+slug: unix.testing
 
 ## Description
 todo

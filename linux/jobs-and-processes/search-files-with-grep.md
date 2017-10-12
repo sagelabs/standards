@@ -1,5 +1,5 @@
 
-# Search files with grep
+# [[Search files with grep](.linux/jobs-and-processes/search-files-with-grep.md)](.linux/jobs-and-processes/search-files-with-grep.md)
 
 slug: unix.search-files-with-grep
 
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
