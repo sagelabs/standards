@@ -1,7 +1,7 @@
 
-# Use external packages to add capabilities to your machine
+# Analyze the performance of your machine
 
-slug: unix.use-external-packages-to-add-capabilities-to-your-machine
+slug: unix.analyze-the-performance-of-your-machine
 
 ## Description
 todo
