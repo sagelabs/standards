@@ -1,7 +1,7 @@
 
-# Assemble a HTTP request and response.
+# Interpret network metrics outputted by different tools
 
-slug: cs.assemble-a-http-request-and-response.
+slug: cs.interpret-network-metrics-outputted-by-different-tools
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

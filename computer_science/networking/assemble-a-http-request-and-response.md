@@ -1,7 +1,7 @@
 
-# Connect to a remote machine through SSH.
+# Assemble a HTTP request and response
 
-slug: unix.connect-to-a-remote-machine-through-ssh.
+slug: cs.assemble-a-http-request-and-response
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

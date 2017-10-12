@@ -1,7 +1,7 @@
 
-# Identify a network’s components and describe their role.
+# Categorize the protocols by layers
 
-slug: cs.identify-a-network’s-components-and-describe-their-role.
+slug: cs.categorize-the-protocols-by-layers
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
