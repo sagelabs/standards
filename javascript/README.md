@@ -58,3 +58,23 @@ topic-namespace: js
 
 
 ---
+## Course: React
+
+
+- Define React framework vocabulary terms
+- Analyze and Write React Components
+- Write JSX to define the presentation of a component
+- Create Properties to store State on a React Component
+- Getting and Setting State on a single Component
+- Alter State on a Parent Component 
+- Alter State on a Child Component 
+- Control the flow of the rendering lifecycle
+- Interact with DOM elements via a Reference
+- Distinguish between controlled and uncontrolled inputs
+- Increase the robustness of your application using Default Props and Prop Types
+- Distinguish between a normal component, functional stateless component, or a pure component
+- Use React-Router to add URL state to your application
+- Fetch data into your react app using the .fetch API
+- Animate components in Ract
+- Setup a React Developer Environment
+- Encapsulate Style in React Components 
