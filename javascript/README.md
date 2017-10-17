@@ -27,13 +27,15 @@ topic-namespace: js
 ## Course: ECMAScript 2015
 
 
-- Recognize and employ features specific to the modern version 6 of Ecmascript
+- Recognize and employ the newest features of ECMAScript
 - Use new variable declaration keywords to communicate more effectively with other developers
 - Use extensions to JavaScript’s standard library to perform data analysis and manipulation
-- Use updates to functions to create more expressive functions
+- Use updates to function syntax to create more expressive functions
 - Use new data structures and their features to store data
-- Use native Promises to manage asyncronous operations
+- Use destructuring syntax to operate on data in collections
+- Use native Promises to manage asynchronous operations
 - Use async await to manage asynchronous operations
+- Use iterators and generators to process collections
 
 
 ---
