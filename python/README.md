@@ -6,12 +6,13 @@ topic-namespace: py
 ## Course: Core
 
 - Set up a Python Developer Environment
-- Identify and use relevant native Types of Python
-- Compose and distinguish control structures to control the flow of a program in Python
+- Identify Python Syntax
+- Identify and use native Types in Python and their respective primitive operations
+- Use control structures to control the flow of a program in Python
 - Use and extend the iteration protocol
 - Use Python’s standard library to perform common operations on data
 - Use Python’s standard library to interact with the operating system
-- Completely employ the capabilities of functions in Python
+- Use functions in Python
 - Use the object-oriented features of Python
 - Use Modules to structure your code
 
@@ -29,6 +30,6 @@ topic-namespace: py
 
 
 - Contrast Functional Programming with Imperative Programming
-- Write pure functions
+- Write pure functions in Python
 - Identify and use Python’s functional programming features
 - Use libraries to provide extended support for functional programming
