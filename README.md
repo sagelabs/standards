@@ -19,3 +19,9 @@ Needs objectives, deeper descriptions:
 - Linux
 - Web
 - Computer Science
+
+
+Next Steps for the data model:
+- define prerequisite standards
+- define _suggested_ prerequisite standards
+- add generalized rubrics for objectives
