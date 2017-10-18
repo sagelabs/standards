@@ -68,7 +68,7 @@ topic-namespace: js
 - [Control the flow of the rendering lifecycle](./javascript/react/control-the-flow-of-the-rendering-lifecycle.md)
 - [Interact with DOM elements via a Reference](./javascript/react/interact-with-dom-elements-via-a-reference.md)
 - [Distinguish between controlled and uncontrolled inputs](./javascript/react/distinguish-between-controlled-and-uncontrolled-inputs.md)
-- [Increase the robustness of your application using Default Props and Prop Types](./javascript/react/increase-the-robustness-of-your-application-using-default-props-and-prop-types.md)
+- [Write robust React applications using Default Props and Prop Types](./javascript/react/write-robust-react-applications-using-default-props-and-prop-types.md)
 - [Distinguish between normal, functional stateless, and pure components](./javascript/react/distinguish-between-normal-functional-stateless-pure-components.md)
 - [Use React-Router to add URL state to your application](./javascript/react/use-react-router-to-add-url-state-to-your-application.md)
 - [Fetch data into your react app using the .fetch API](./javascript/react/fetch-data-into-your-react-app-using-the-fetch-api.md)
