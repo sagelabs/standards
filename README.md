@@ -1,4 +1,8 @@
-This is the Standards repo for Enki. It contains the superstructure uniting all of the open-source curriculum materials at Enki. It is intended to serve a broader purpose- defining a set of skills developers can learn and acrue experience points in. This is intended to be an open-source instructional design resource, as well as an open data model for building experience point systems on top of. The loftiest goal of this repository is to create an agreed-upon skills map, so that educators and students alike can keep up with the exact skill needs of employers.
+This is the Skills repo for Enki. 
+
+Skills are based off of Standards, which are an approach to describing what constitudes performance of a skill, and performance _levels_ of a skill.
+
+Skills at Enki are the superstructure uniting all of the open-source curriculum materials. They are intended to serve a broader purpose- defining a set of skills developers can learn and acrue experience points in. This is intended to be an open-source instructional design resource, as well as an open data model for building experience point systems on top of. The loftiest goal of this repository is to create an agreed-upon skills map, so that educators and students alike can keep up with the exact skill needs of employers. 
 
 This repo is in Beta. We're still shaking out the data model.
 
