@@ -14,7 +14,7 @@ topic-namespace: py
 - Use Python’s standard library to interact with the operating system
 - Use functions in Python
 - Use the object-oriented features of Python
-- Use Modules to structure your code
+- Use Modules to structure your code 
 
 
 ---
