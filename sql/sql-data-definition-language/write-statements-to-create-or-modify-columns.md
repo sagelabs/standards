@@ -9,6 +9,6 @@ todo
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+- Create columns in a table
+- Modify the name or data type of columns in a table
+- Modify other properties of a column in a table
