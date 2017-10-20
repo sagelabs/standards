@@ -11,4 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 
 - Create a new table
 - Set the data type or name of columns in a new table
-- Add triggers, constraints, sequences, defaults, and rules to new tables
