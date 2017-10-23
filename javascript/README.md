@@ -27,13 +27,15 @@ topic-namespace: js
 ## Course: ECMAScript 2015
 
 
-- [Recognize and employ features specific to the modern version 6 of Ecmascript](./javascript/ecmascript-2015/recognize-and-employ-features-specific-to-the-modern-version-6-of-ecmascript.md)
+- [Recognize and employ the newest features of ECMAScript](./javascript/ecmascript-2015/recognize-and-employ-features-specific-to-the-modern-version-6-of-ecmascript.md)
 - [Use new variable declaration keywords to communicate more effectively with other developers](./javascript/ecmascript-2015/use-new-variable-declaration-keywords-to-communicate-more-effectively-with-other-developers.md)
 - [Use extensions to JavaScript’s standard library to perform data analysis and manipulation](./javascript/ecmascript-2015/use-extensions-to-javascripts-standard-library-to-perform-data-analysis-and-manipulation.md)
-- [Use updates to functions to create more expressive functions](./javascript/ecmascript-2015/use-updates-to-functions-to-create-more-expressive-functions.md)
+- [Use updates to function syntax to create more expressive functions](./javascript/ecmascript-2015/use-updates-to-functions-to-create-more-expressive-functions.md)
 - [Use new data structures and their features to store data](./javascript/ecmascript-2015/use-new-data-structures-and-their-features-to-store-data.md)
 - [Use native Promises to manage asyncronous operations](./javascript/ecmascript-2015/use-native-promises-to-manage-asyncronous-operations.md)
+- Use destructuring syntax to operate on data in collection
 - [Use async await to manage asynchronous operations](./javascript/ecmascript-2015/use-async-await-to-manage-asynchronous-operations.md)
+- Use iterators and generators to process collections
 
 
 ---
