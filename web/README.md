@@ -39,3 +39,14 @@ topic-namespace: web
 - Identify contextual dependency in CSS rules
 - Distinguish tightly coupled CSS from composable CSS
 - Use StyleLint to enforce style rules
+
+---
+## Course: CSS Architecture
+
+- Distinguish structural rules from skin rules
+- Identify CSS rulesets that separate concerns
+- Use `bem` naming conventions to normalize CSS names
+- Reduce the specificity of CSS selectors
+- Identify contextual dependency in CSS rules
+- Distinguish tightly coupled CSS from composable CSS
+- Use StyleLint to enforce style rules
