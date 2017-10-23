@@ -1,4 +1,3 @@
-
 # Use CSS to define Typography
 
 slug: web.use-css-to-define-typography
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

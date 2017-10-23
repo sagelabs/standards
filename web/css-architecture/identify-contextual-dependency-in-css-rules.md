@@ -1,7 +1,6 @@
+# Identify contextual dependency in CSS rules
 
-# Use CSS to define Typography
-
-slug: web.use-css-to-define-typography
+slug: web.identify-contextual-dependency-in-css-rules
 
 ## Description
 todo
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

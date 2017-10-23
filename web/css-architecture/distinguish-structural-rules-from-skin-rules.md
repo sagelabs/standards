@@ -1,7 +1,6 @@
+# Distinguish structural rules from skin rules
 
-# Use CSS to define Typography
-
-slug: web.use-css-to-define-typography
+slug: web.distinguish-structural-rules-from-skin-rules
 
 ## Description
 todo
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

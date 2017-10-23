@@ -1,7 +1,7 @@
 
-# Identify and Evaluate the syntax of HTML
+# Embed media with HTML elements
 
-slug: web.identify-and-evaluate-the-syntax-of-html
+slug: web.embed-media-with-html-elements
 
 ## Description
 todo

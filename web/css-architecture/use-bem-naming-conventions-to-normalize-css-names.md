@@ -1,7 +1,6 @@
+# Use `bem` naming conventions to normalize CSS names
 
-# Use CSS to define Typography
-
-slug: web.use-css-to-define-typography
+slug: web.use-bem-naming-conventions-to-normalize-css-names
 
 ## Description
 todo
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

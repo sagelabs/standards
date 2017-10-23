@@ -1,7 +1,6 @@
+# Reduce the specificity of CSS selectors
 
-# Use CSS to define Typography
-
-slug: web.use-css-to-define-typography
+slug: web.reduce-the-specificity-of-css-selectors
 
 ## Description
 todo
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

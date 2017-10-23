@@ -1,7 +1,6 @@
+# Distinguish tightly coupled CSS from composable CSS
 
-# Use CSS to define Typography
-
-slug: web.use-css-to-define-typography
+slug: web.distinguish-tightly-coupled-css-from-composable-css
 
 ## Description
 todo
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
