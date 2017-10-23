@@ -26,7 +26,7 @@ topic-namespace: js
 ---
 ## Course: ECMAScript 2015
 
-- Recognize and employ the newest features of ECMAScript
+- Recognize and employ the newest features of ECMAScript 
 - Use new variable declaration keywords to communicate more effectively with other developers
 - Use extensions to JavaScript’s standard library to perform data analysis and manipulation
 - Use updates to function syntax to create more expressive functions
