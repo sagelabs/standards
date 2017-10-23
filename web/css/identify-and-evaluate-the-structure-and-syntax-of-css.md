@@ -1,7 +1,7 @@
 
-# Identify and Evaluate the structure and syntax of CSS
+# Use CSS to define Typography
 
-slug: web.identify-and-evaluate-the-structure-and-syntax-of-css
+slug: web.use-css-to-define-typography
 
 ## Description
 todo
