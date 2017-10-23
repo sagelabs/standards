@@ -27,13 +27,15 @@ topic-namespace: js
 ## Course: ECMAScript 2015
 
 
-- [Recognize and employ features specific to the modern version 6 of Ecmascript](./javascript/ecmascript-2015/recognize-and-employ-features-specific-to-the-modern-version-6-of-ecmascript.md)
+- [Recognize and employ the newest features of ECMAScript](./javascript/ecmascript-2015/recognize-and-employ-the-newest-features-of-ecmascript.md)
 - [Use new variable declaration keywords to communicate more effectively with other developers](./javascript/ecmascript-2015/use-new-variable-declaration-keywords-to-communicate-more-effectively-with-other-developers.md)
 - [Use extensions to JavaScript’s standard library to perform data analysis and manipulation](./javascript/ecmascript-2015/use-extensions-to-javascripts-standard-library-to-perform-data-analysis-and-manipulation.md)
-- [Use updates to functions to create more expressive functions](./javascript/ecmascript-2015/use-updates-to-functions-to-create-more-expressive-functions.md)
+- [Use updates to function syntax to create more expressive functions](./javascript/ecmascript-2015/use-updates-to-function-syntax-to-create-more-expressive-functions.md)
 - [Use new data structures and their features to store data](./javascript/ecmascript-2015/use-new-data-structures-and-their-features-to-store-data.md)
 - [Use native Promises to manage asyncronous operations](./javascript/ecmascript-2015/use-native-promises-to-manage-asyncronous-operations.md)
+- [Use destructuring syntax to operate on data in collection](./javascript/ecmascript-2015/use-destructuring-syntax-to-operate-on-data-in-collection.md)
 - [Use async await to manage asynchronous operations](./javascript/ecmascript-2015/use-async-await-to-manage-asynchronous-operations.md)
+- [Use iterators and generators to process collections](./javascript/ecmascript-2015/use-iterators-and-generators-to-process-collections.md)
 
 
 ---
@@ -69,9 +71,9 @@ topic-namespace: js
 - [Interact with DOM elements via a Reference](./javascript/react/interact-with-dom-elements-via-a-reference.md)
 - [Distinguish between controlled and uncontrolled inputs](./javascript/react/distinguish-between-controlled-and-uncontrolled-inputs.md)
 - [Write robust React applications using Default Props and Prop Types](./javascript/react/write-robust-react-applications-using-default-props-and-prop-types.md)
-- [Distinguish between normal, functional stateless, and pure components](./javascript/react/distinguish-between-normal-functional-stateless-pure-components.md)
+- [Distinguish between normal, functional stateless, and pure components](./javascript/react/distinguish-between-normal-functional-stateless-and-pure-components.md)
 - [Use React-Router to add URL state to your application](./javascript/react/use-react-router-to-add-url-state-to-your-application.md)
 - [Fetch data into your react app using the .fetch API](./javascript/react/fetch-data-into-your-react-app-using-the-fetch-api.md)
-- [Animate Components in React](./javascript/react/animate-components-in-ract.md)
+- [Animate Components in React](./javascript/react/animate-components-in-react.md)
 - [Setup a React Developer Environment](./javascript/react/setup-a-react-developer-environment.md)
 - [Encapsulate Style in React Components ](./javascript/react/encapsulate-style-in-react-components.md)
