@@ -4,7 +4,7 @@
 slug: js.standard-library
 
 ## Description
-todo
+This standard covers common operations on data that are provided by the standard library of most JavaScript environments.
 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
@@ -12,3 +12,4 @@ In order to fully cover this standard, a performance must be recording for each 
 - Perform common string manipulation tasks
 - Perform basic math operations
 - Accurately perform type-casting operations
+- Use Console methods to output data
