@@ -1,7 +1,7 @@
 
-# Use native Promises to manage asyncronous operations
+# Use native Promises to manage asynchronous operations
 
-slug: js.use-native-promises-to-manage-asyncronous-operations
+slug: js.native-promises
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

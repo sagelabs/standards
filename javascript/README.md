@@ -44,7 +44,7 @@ topic-namespace: js
 - [Use async await to manage asynchronous operations](./ecmascript-2015/use-async-await-to-manage-asynchronous-operations.md)
 - [Use iterators and generators to process collections](./ecmascript-2015/use-iterators-and-generators-to-process-collections.md)
 - [Use Object Oriented JavaScript syntax](./ecmascript-2015/use-object-oriented-javascript-syntax.md)
-
+- [Use proxies to define custom behavior for fundamental operations in JavaScript](./ecmascript-2015/use-proxies-to-define-custom-behavior-for-fundamental-operations-in-javascript.md)
 
 ---
 ## Course: Nodejs
