@@ -21,6 +21,7 @@ topic-namespace: js
 - [Use built-in Browser APIs to control the browser](./javascript/browser-apis/use-built-in-browser-apis-to-control-the-browser.md)
 - [Use built-in Browser APIs to connect to remote hosts](./javascript/browser-apis/use-built-in-browser-apis-to-connect-to-remote-hosts.md)
 - [Use modern browser tooling and APIs to improve load performance](./javascript/browser-apis/use-modern-browser-tooling-and-apis-to-improve-load-performance.md)
+- [Use browser APIs to store and manage data on the client](./javascript/browser-apis/use-browser-apis-to-store-and-manage-data-on-the-client.md)
 
 
 ---
