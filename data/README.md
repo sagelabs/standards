@@ -15,7 +15,7 @@ topic-namespace: data
 
 - [Use independence and conditional probability to interpret data](./basic-probability-and-distributions/use-independence-and-conditional-probability-to-interpret-data.md)
 - [Use the rules of probability to compute probabilities of compound events (in a uniform probability model)](./basic-probability-and-distributions/use-the-rules-of-probability-to-compute-probabilities-of-compound-events-in-a-uniform-probabili.mdty-model.md)
-- [Calculate expected value and variance and and use them to solve problems](./basic-probability-and-distributions/calculate-expected-value-and-variance-and-and-use-them-to-solve-problems.md)
+- [Calculate expected value and variance and use them to solve problems](./basic-probability-and-distributions/calculate-expected-value-and-variance-and-use-them-to-solve-problems.md)
 - [Calculate covariance and correlation and use them to solve problems](./basic-probability-and-distributions/calculate-covariance-and-correlation-and-use-them-to-solve-problems.md)
 - [Use probability to evaluate outcomes of decisions](./basic-probability-and-distributions/use-probability-to-evaluate-outcomes-of-decisions.md)
 
@@ -23,7 +23,7 @@ topic-namespace: data
 ---
 ## Course: Observational Studies and Experimental Design
 
-- [Understand and evaluate random processes underlying statistical experiments](./observational-studies-and-experimental-design/understand-and-evaluate-random-processes-underlying-statistical-experiments.md)
+- [Evaluate random processes underlying statistical experiments](./observational-studies-and-experimental-design/evaluate-random-processes-underlying-statistical-experiments.md)
 - [Make inferences and justify conclusions from sample surveys, experiments, and observational studies](./observational-studies-and-experimental-design/make-inferences-and-justify-conclusions-from-sample-surveys-experiments-and-observational-studies.md)
 
 
