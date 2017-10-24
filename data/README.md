@@ -6,8 +6,8 @@ topic-namespace: data
 ---
 ## Course: Exploratory Data Analysis
 
-- [Summarize-represent, and interpret data on a single count or measurement variable](./exploratory-data-analysis/summarize-represent-and-interpret-data-on-a-single-count-or-measurement-variable.md)
-- [Summarize, represent, and interpret data in the following: two categorical variables, two quantitative variables, one categorical and one quantitative variable](./exploratory-data-analysis/summarize-represent-and-interpret-data-in-the-following-two-categorical-variables-two-quantitative-variables-one-categorical-and-one-quantitative-variable.md)
+- [Summarize, represent, and interpret data on a single count or measurement variable](./exploratory-data-analysis/summarize-represent-and-interpret-data-on-a-single-count-or-measurement-variable.md)
+- [Summarize, represent, and interpret data in multiple categorial and quantitative variables ](./exploratory-data-analysis/summarize-represent-and-interpret-data-in-multiple-categorial-and-quantitative-variables.md)
 
 
 ---
@@ -19,14 +19,16 @@ topic-namespace: data
 - [Calculate covariance and correlation and use them to solve problems](./basic-probability-and-distributions/calculate-covariance-and-correlation-and-use-them-to-solve-problems.md)
 - [Use probability to evaluate outcomes of decisions](./basic-probability-and-distributions/use-probability-to-evaluate-outcomes-of-decisions.md)
 
+
 ---
 ## Course: Observational Studies and Experimental Design
 
 - [Understand and evaluate random processes underlying statistical experiments](./observational-studies-and-experimental-design/understand-and-evaluate-random-processes-underlying-statistical-experiments.md)
 - [Make inferences and justify conclusions from sample surveys, experiments, and observational studies](./observational-studies-and-experimental-design/make-inferences-and-justify-conclusions-from-sample-surveys-experiments-and-observational-studies.md)
 
+
 ---
 ## Course: Prediction
 
-- [Summarize, represent, and interpret data on two quantitative variables](./prediction/summarize-represent-and interpret-data-on-two-quantitative-variables.md)
+- [Summarize, represent, and interpret data on two quantitative variables](./prediction/summarize-represent-and-interpret-data-on-two-quantitative-variables.md)
 - [Interpret linear models](./prediction/interpret-linear-models.md)
