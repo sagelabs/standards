@@ -4,6 +4,8 @@ topic-namespace: js
 
 ---
 ## Course: Core
+
+
 - [Identify JavaScript Syntax](./core/identify-javascript-syntax.md)
 - [Identify and Use JavaScript's data types and structures and their respective operations](./core/identify-and-use-javascripts-data-types-and-structures-and-their-respective-operations.md)
 - [Write Javascript Expressions](./core/write-javascript-expressions.md)
@@ -26,6 +28,7 @@ topic-namespace: js
 - [Use built-in Browser APIs to control the browser](./browser-apis/use-built-in-browser-apis-to-control-the-browser.md)
 - [Use built-in Browser APIs to connect to remote hosts](./browser-apis/use-built-in-browser-apis-to-connect-to-remote-hosts.md)
 - [Use modern browser tooling and APIs to improve load performance](./browser-apis/use-modern-browser-tooling-and-apis-to-improve-load-performance.md)
+- [Use browser APIs to store and manage data on the client](./browser-apis/use-browser-apis-to-store-and-manage-data-on-the-client.md)
 
 
 ---
