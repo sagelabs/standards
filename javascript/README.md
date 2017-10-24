@@ -35,12 +35,11 @@ topic-namespace: js
 ## Course: ECMAScript 2015
 
 
-- [Recognize and employ the newest features of ECMAScript](./ecmascript-2015/recognize-and-employ-the-newest-features-of-ecmascript.md)
 - [Use new variable declaration keywords to communicate more effectively with other developers](./ecmascript-2015/use-new-variable-declaration-keywords-to-communicate-more-effectively-with-other-developers.md)
 - [Use extensions to JavaScript’s standard library to perform data analysis and manipulation](./ecmascript-2015/use-extensions-to-javascripts-standard-library-to-perform-data-analysis-and-manipulation.md)
 - [Use updates to function syntax to create more expressive functions](./ecmascript-2015/use-updates-to-function-syntax-to-create-more-expressive-functions.md)
 - [Use new data structures and their features to store data](./ecmascript-2015/use-new-data-structures-and-their-features-to-store-data.md)
-- [Use native Promises to manage asyncronous operations](./ecmascript-2015/use-native-promises-to-manage-asyncronous-operations.md)
+- [Use native Promises to manage asynchronous operations](./ecmascript-2015/use-native-promises-to-manage-asynchronous-operations.md)
 - [Use destructuring syntax to operate on data in collection](./ecmascript-2015/use-destructuring-syntax-to-operate-on-data-in-collection.md)
 - [Use async await to manage asynchronous operations](./ecmascript-2015/use-async-await-to-manage-asynchronous-operations.md)
 - [Use iterators and generators to process collections](./ecmascript-2015/use-iterators-and-generators-to-process-collections.md)

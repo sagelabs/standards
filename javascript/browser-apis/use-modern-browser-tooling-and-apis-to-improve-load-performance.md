@@ -9,6 +9,6 @@ todo
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+- Use in-browser tooling to measure resource loading times to identify network bottlenecks
+- Use in-browser tooling to profile memory issues and identify memory leaks
+- Use in-browser tooling to analyze runtime performance and improve efficiency
