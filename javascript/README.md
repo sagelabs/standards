@@ -11,6 +11,9 @@ topic-namespace: js
 - [Use control flow structures to control the flow of a program in JavaScript](./javascript/core/use-control-flow-structures-to-control-the-flow-of-a-program-in-javascript.md)
 - [Use the standard library to perform common operations on data with JavaScript](./javascript/core/use-the-standard-library-to-perform-common-operations-on-data-with-javascript.md)
 - [Perform and manage asynchronous operations in JavaScript](./javascript/core/perform-and-manage-asynchronous-operations-in-javascript.md)
+- Use and manipulate the execution context of a function in JavaScript
+- Use prototypes to create class-like objects in JavaScript
+- Use prototypes to inherit methods and properties from another object in JavaScript
 
 ---
 ## Course: Browser APIs
@@ -36,6 +39,7 @@ topic-namespace: js
 - [Use destructuring syntax to operate on data in collection](./javascript/ecmascript-2015/use-destructuring-syntax-to-operate-on-data-in-collection.md)
 - [Use async await to manage asynchronous operations](./javascript/ecmascript-2015/use-async-await-to-manage-asynchronous-operations.md)
 - [Use iterators and generators to process collections](./javascript/ecmascript-2015/use-iterators-and-generators-to-process-collections.md)
+- Use Object Oriented JavaScript syntax
 
 
 ---
