@@ -1,12 +1,13 @@
 # Write robust React applications using Default Props and Prop Types
 
-slug: js.react-robustness
+slug: js.write-robust-react-applications-using-default-props-and-prop-types
 
 ## Description
-This standard relates to increasing robustness through adding defaults and type checking to React applications.
+todo
 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use Default Props
-- Use Prop Types
+- Objectives
+- Go
+- Here

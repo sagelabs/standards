@@ -1,6 +1,6 @@
-# Animate components in Ract
+# Identify CSS rulesets that separate concerns
 
-slug: js.animate-components-in-ract
+slug: web.identify-css-rulesets-that-separate-concerns
 
 ## Description
 todo
