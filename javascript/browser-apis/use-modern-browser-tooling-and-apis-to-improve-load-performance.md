@@ -4,7 +4,7 @@
 slug: js.browser-tooling
 
 ## Description
-todo
+This standard deals with use of Chrome Dev Tools, Safari Web Inspector, Firefox Developer Console, or Internet Explorer Developer Tools. Not all toolchains support all activities, so some performances may require the use of a specific toolset.
 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:

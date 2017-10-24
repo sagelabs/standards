@@ -1,4 +1,3 @@
-
 # Use extensions to JavaScript’s standard library to perform data analysis and manipulation
 
 slug: js.es6-extensions-standard-library
@@ -14,4 +13,4 @@ In order to fully cover this standard, a performance must be recording for each 
 - Use new String static and prototype methods and properties
 - Use new Number static and prototype methods and properties
 - Use new Math methods
-- Use new RegExp syntax extensions 
+- Use new RegExp syntax extensions
