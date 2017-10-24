@@ -14,6 +14,7 @@ Each file has a Standard, a Description, a unique identifier, and Objectives. Th
 Right now, the best examples of complete courses, with standards, and objectives for those standards, are:
 - SQL 
 - JavaScript
+- Data
 
 Currently working on refactoring:
 - Python
