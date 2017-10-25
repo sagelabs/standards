@@ -1,7 +1,7 @@
 
-# Implement simple data structures
+# Identify and Analyze network protocols
 
-slug: cs.implement-simple-data-structures
+slug: cs.identify-and-analyze-network-protocols
 
 ## Description
 todo

@@ -1,7 +1,7 @@
 
-# Analyze the complexity of data structures and algorithms
+# Assemble an HTTP request and response
 
-slug: cs.analyze-the-complexity-of-data-structures-and-algorithms
+slug: cs.assemble-an-http-request-and-response
 
 ## Description
 todo
