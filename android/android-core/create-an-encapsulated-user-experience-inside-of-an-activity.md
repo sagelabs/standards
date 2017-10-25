@@ -1,7 +1,7 @@
 
 # Create an encapsulated user experience inside of an Activity
 
-slug: android.create-an-encapsulated-user-experience-inside-of-an-activity
+slug: android.create-activity
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

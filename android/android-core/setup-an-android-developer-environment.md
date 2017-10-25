@@ -1,7 +1,7 @@
 
 # Setup an Android Developer Environment
 
-slug: android.setup-an-android-developer-environment
+slug: android.android-developer-environment
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

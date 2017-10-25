@@ -1,7 +1,7 @@
 
 # Implement view logic inside a View
 
-slug: android.implement-view-logic-inside-a-view
+slug: android.view-logic
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

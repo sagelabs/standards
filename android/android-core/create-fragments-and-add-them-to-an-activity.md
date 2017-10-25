@@ -1,7 +1,7 @@
 
 # Create Fragments and add them to an Activity
 
-slug: android.create-fragments-and-add-them-to-an-activity
+slug: android.create-fragments
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

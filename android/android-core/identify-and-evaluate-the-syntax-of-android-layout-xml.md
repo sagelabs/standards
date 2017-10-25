@@ -1,7 +1,7 @@
 
 # Identify and Evaluate the syntax of Android Layout XML
 
-slug: android.identify-and-evaluate-the-syntax-of-android-layout-xml
+slug: android.android-layout-xml-syntax
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

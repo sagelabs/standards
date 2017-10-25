@@ -11,7 +11,6 @@ topic-namespace: android
 - [Identify the use of all of the resources in an Android app](identify-the-use-of-all-of-the-resources-in-an-android-app.md)
 - [Build and emulate Android apps](build-and-emulate-android-apps.md)
 - [Identify and Evaluate the syntax of Android Layout XML](identify-and-evaluate-the-syntax-of-android-layout-xml.md)
-- [Compose an Android Layout XML document with valid structure](compose-an-android-layout-xml-document-with-valid-structure.md)
 - [Choose an appropriate layout methodology](choose-an-appropriate-layout-methodology.md)
 - [Use the layout API from the Android SDK to layout and style an Android app](use-the-layout-api-from-the-android-sdk-to-layout-and-style-an-android-app.md)
 - [Create reusable layout components](create-reusable-layout-components.md)

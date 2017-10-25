@@ -1,7 +1,7 @@
 
 # Use Transactions to dynamically compose an Activity
 
-slug: android.use-transactions-to-dynamically-compose-an-activity
+slug: android.use-transactions
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          

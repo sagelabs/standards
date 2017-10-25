@@ -1,7 +1,7 @@
 
 # Identify the use of all of the resources in an Android app
 
-slug: android.identify-the-use-of-all-of-the-resources-in-an-android-app
+slug: android.identify-resources
 
 ## Description
 todo
@@ -12,5 +12,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
