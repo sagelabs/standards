@@ -1,4 +1,3 @@
-
 # Identify linear collection data structures and their usage
 
 slug: cs.identify-linear-collection-data-structures-usage

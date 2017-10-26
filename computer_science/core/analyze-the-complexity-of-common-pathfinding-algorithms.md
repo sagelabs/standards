@@ -1,4 +1,3 @@
-
 # Analyze the complexity of common pathfinding algorithms
 
 slug: cs.analyze-complexity-pathfinding-algorithms

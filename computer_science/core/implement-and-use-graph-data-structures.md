@@ -1,4 +1,3 @@
-
 # Implement and use graph data structures
 
 slug: cs.implement-graph-data-structures

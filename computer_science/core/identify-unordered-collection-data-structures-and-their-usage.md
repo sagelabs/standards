@@ -1,4 +1,3 @@
-
 # Identify unordered collection data structures and their usage
 
 slug: cs.identify-unordered-collection-data-structures-usage

@@ -1,4 +1,3 @@
-
 # Identify graph data structures and their usage
 
 slug: cs.identify-graph-data-structures-usage

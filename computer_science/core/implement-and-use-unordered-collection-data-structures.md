@@ -1,4 +1,3 @@
-
 # Implement and use unordered collection data structures
 
 slug: cs.implement-unordered-collection-data-structures

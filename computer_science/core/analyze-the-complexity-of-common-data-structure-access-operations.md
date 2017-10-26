@@ -1,4 +1,3 @@
-
 # Analyze the complexity of common data structure access operations
 
 slug: cs.analyze-complexity-data-structure-access-operations

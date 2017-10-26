@@ -1,4 +1,3 @@
-
 # Implement and use linear collection data structures
 
 slug: cs.implement-linear-collection-data-structures
