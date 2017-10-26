@@ -46,6 +46,7 @@ topic-namespace: js
 - [Use Object Oriented JavaScript syntax](./ecmascript-2015/use-object-oriented-javascript-syntax.md)
 - [Use proxies to define custom behavior for fundamental operations in JavaScript](./ecmascript-2015/use-proxies-to-define-custom-behavior-for-fundamental-operations-in-javascript.md)
 
+
 ---
 ## Course: Nodejs
 
@@ -54,7 +55,7 @@ topic-namespace: js
 - [Use events to manage asynchronous operations](./nodejs/use-events-to-manage-asynchronous-operations.md)
 - [Use modules to add functionality to your code](./nodejs/use-modules-to-add-functionality-to-your-code.md)
 - [Read and write Streams](./nodejs/read-and-write-streams.md)
-- [Identify common design patterns](./nodejs/identify-common-design-patterns.md)
+- [Identify and use common design patterns](./nodejs/identify-and-use-common-design-patterns.md)
 - [Use the standard library to interact with your operating system](./nodejs/use-the-standard-library-to-interact-with-your-operating-system.md)
 
 
