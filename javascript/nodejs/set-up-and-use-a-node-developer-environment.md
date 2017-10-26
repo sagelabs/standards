@@ -1,7 +1,7 @@
 
 # Set up and use a Node developer environment
 
-slug: js.set-up-and-use-a-node-developer-environment
+slug: js.node-developer-environment
 
 ## Description
 This standard deals with the ability to set up and install required components of the Node.js Ecosystem

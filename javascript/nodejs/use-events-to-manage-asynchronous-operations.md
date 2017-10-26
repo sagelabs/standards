@@ -1,7 +1,7 @@
 
 # Use events to manage asynchronous operations
 
-slug: js.use-events-to-manage-asynchronous-operations
+slug: js.events-asynchronous-operations
 
 ## Description
 This standard handles usage of Node's Events API to manage asynchronous operations.
