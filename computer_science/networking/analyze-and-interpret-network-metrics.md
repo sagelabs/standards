@@ -1,7 +1,7 @@
 
-# Discover simple algorithms in use today
+# Analyze and Interpret network metrics
 
-slug: cs.discover-simple-algorithms-in-use-today
+slug: cs.analyze-and-interpret-network-metrics
 
 ## Description
 todo
