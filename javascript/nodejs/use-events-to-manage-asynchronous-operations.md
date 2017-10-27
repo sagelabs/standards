@@ -1,4 +1,3 @@
-
 # Use events to manage asynchronous operations
 
 slug: js.events-asynchronous-operations

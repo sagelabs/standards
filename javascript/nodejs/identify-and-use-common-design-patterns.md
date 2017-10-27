@@ -1,4 +1,3 @@
-
 # Identify and use common design patterns
 
 slug: js.identify-common-design-patterns

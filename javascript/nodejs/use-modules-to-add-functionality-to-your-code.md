@@ -1,7 +1,7 @@
 
 # Use modules to add functionality to your code
 
-slug: js.use-modules-to-add-functionality-to-your-code
+slug: js.use-modules
 
 ## Description
 This standard deals with importing and exporting modules and using modules.

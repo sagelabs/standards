@@ -1,6 +1,6 @@
 # Use the npm online repository to publish a module
 
-slug: js.use-the-npm-online-repository-to-publish-a-module
+slug: js.npm-publish
 
 ## Description
 This standard deals with creating open-source packages that are considered well maintained.
