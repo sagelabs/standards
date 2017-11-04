@@ -13,3 +13,4 @@ In order to fully cover this standard, a performance must be recording for each 
 - Perform basic math operations
 - Accurately perform type-casting operations
 - Use Console methods to output data
+- Perform collection manipulation with Array methods (`map`, `filter`, `reduce`, etc)

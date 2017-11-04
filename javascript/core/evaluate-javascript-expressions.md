@@ -17,3 +17,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Accurately predict the return value of complex boolean JavaScript expressions
 - Accurately predict the result of simple JavaScript expressions operating on a data structure
 - Accurately predict the result of complex JavaScript expressions operating on a data structure
+- Accurately predict the result of complex data structure access operations
+- Accurately predict the return value of function or constructor

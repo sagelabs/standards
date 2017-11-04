@@ -14,3 +14,4 @@ In order to fully cover this standard, a performance must be recording for each 
 - Identify data structures in JavaScript
 - Use built-in data structures in JavaScript
 - Perform primitive operations on data structures in JavaScript
+- Access deeply nested data structures
