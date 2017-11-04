@@ -6,15 +6,19 @@ topic-namespace: cs
 ## Course: Core
 
 
-- Identify different data structures and their usage
-- Implement simple data structures
-- Analyze the complexity of data structures and algorithms
-- Discover simple algorithms in use today
+- [Identify linear collection data structures and their usage](./core/identify-linear-collection-data-structures-and-their-usage.md)
+- [Identify unordered collection data structures and their usage](./core/identify-unordered-collection-data-structures-and-their-usage,md)
+- [Identify graph data structures and their usage](./core/identify-graph-data-structures-and-their-usage.md)
+- [Implement and use linear collection data structures](./core/implement-and-use-linear-collection-data-structures.md)
+- [Implement and use unordered collection data structures](./core/implement-and-use-unordered-collection-data-structures.md)
+- [Implement and use graph data structures](./core/implement-and-use-graph-data-structures.md)
+- [Analyze the complexity of common data structure access operations](./core/analyze-the-complexity-of-common-data-structure-access-operations.md)
+- [Analyze the complexity of common search and sort algorithms](./core/analyze-the-complexity-of-common-search-and-sort-algorithms.md)
+- [Analyze the complexity of common pathfinding algorithms](./core/analyze-the-complexity-of-common-pathfinding-algorithms.md)
 
 
 ---
 ## Course: Networking
-
 
 - Identify a network’s components and describe their role
 - Categorize the protocols by layers
