@@ -1,4 +1,4 @@
-# Use the standard library to perform common operations on data with JavaScript
+# Use and manipulate the execution context of a function in JavaScript
 
 slug: js.execution-context
 
