@@ -13,5 +13,5 @@ topic-namespace: security
 ## Course: OSI Networking Model
 
 - [Describe the 7 layers of the OSI Network Model](./osi-networking-model/describe-the-7-layers-of-the-osi-network-model.md)
-- [Identify the vulnerabilities in each layer of the OSI Network Model](./osi-networking-model/identify-the-vulnerabilities-in-each-layer-of-the-osi-network-model.md)
+- [Identify Each Layer of the OSI Network Model](./osi-networking-model/identify-each-layer-of-the-osi-network-model)
 - [Apply the appropriate controls to minimize vulnerability in each layer](./osi-networking-model/apply-the-appropriate-controls-to-minimize-vulnerability-in-each-layer.md)
