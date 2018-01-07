@@ -1,4 +1,3 @@
-
 # Configure your shell
 
 slug: unix.configure-your-shell
@@ -12,5 +11,3 @@ In order to fully cover this standard, a performance must be recording for each 
 - Objectives
 - Go
 - Here
-
-          
