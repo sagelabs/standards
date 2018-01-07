@@ -6,6 +6,7 @@ slug: js.evaluate-expressions
 ## Description
 This standard covers reading JavaScript expressions and accurately predicting the result.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -19,3 +20,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Accurately predict the result of complex JavaScript expressions operating on a data structure
 - Accurately predict the result of complex data structure access operations
 - Accurately predict the return value of function or constructor
+
+---

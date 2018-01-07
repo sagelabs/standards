@@ -5,6 +5,7 @@ slug: js.events-asynchronous-operations
 ## Description
 This standard handles usage of Node's Events API to manage asynchronous operations.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -12,3 +13,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Listen for events on an `EventEmitter`
 - Emit events on an `EventEmitter`
 - Emit events in response to input to the process
+
+---

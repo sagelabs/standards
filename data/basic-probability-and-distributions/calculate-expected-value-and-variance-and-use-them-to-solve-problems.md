@@ -5,6 +5,8 @@ slug: data.expected-value-variance
 ## Description
 This standard covers the calculation of expected value and variance and use of them to solve problems.
 
+
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -13,3 +15,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Calculate and interpret the variance of a random variable
 - Develop a probability distribution for a random variable defined for a sample space in which theoretical probabilities can be calculated; find the expected value and variance
 - Develop a probability distribution for a random variable defined for a sample space in which probabilities are assigned empirically; find the expected value and variance
+
+---

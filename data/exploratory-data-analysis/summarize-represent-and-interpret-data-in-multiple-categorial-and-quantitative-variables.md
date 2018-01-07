@@ -5,6 +5,7 @@ slug: data.interpret-multiple-measures
 ## Description
 This standard covers summarizing, representing, and interpreting data in the following: two categorical variables, two quantitative variables, one categorical and one quantitative variable.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 

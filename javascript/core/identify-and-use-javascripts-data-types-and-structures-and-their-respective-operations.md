@@ -6,6 +6,7 @@ slug: js.data-types-structures
 ## Description
 This standard specifically relates to the operations performed on different data types.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -15,3 +16,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Use built-in data structures in JavaScript
 - Perform primitive operations on data structures in JavaScript
 - Access deeply nested data structures
+
+---

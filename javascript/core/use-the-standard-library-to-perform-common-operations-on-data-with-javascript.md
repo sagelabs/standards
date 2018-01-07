@@ -6,6 +6,7 @@ slug: js.standard-library
 ## Description
 This standard covers common operations on data that are provided by the standard library of most JavaScript environments.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -14,3 +15,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Accurately perform type-casting operations
 - Use Console methods to output data
 - Perform collection manipulation with Array methods (`map`, `filter`, `reduce`, etc)
+
+---

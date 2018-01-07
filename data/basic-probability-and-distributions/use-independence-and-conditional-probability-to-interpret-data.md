@@ -5,6 +5,8 @@ slug: data.independence-and-conditional-probability
 ## Description
 This standard covers the use of independence and conditional probability to interpret data.
 
+
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -12,3 +14,6 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent.
 - Define the conditional probability of A given B as P(A and B)/P(B), and interpret independence of A and B as saying that the conditional probability of A given B is the same as the probability of A, and the conditional probability of B given A is the same as the probability of B.
 - Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.
+
+
+---

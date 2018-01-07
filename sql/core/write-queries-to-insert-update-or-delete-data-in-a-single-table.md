@@ -6,6 +6,7 @@ slug: sql.write
 ## Description
 This standard deals specifically with writes to the database, using `INSERT`, `UPDATE`, or `DELETE` operations.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -16,3 +17,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Use a `WHERE` clause with the `UPDATE` command to conditionally update rows of data
 - Delete data with the `DELETE` command
 - Use a `WHERE` clause with the `DELETE` command to conditionally delete rows of data
+
+---

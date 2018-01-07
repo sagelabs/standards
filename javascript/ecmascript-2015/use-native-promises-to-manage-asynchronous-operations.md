@@ -5,6 +5,7 @@ slug: js.native-promises
 ## Description
 This standard deals with the use of _native_ promises, and their methods. It does not cover the use of Bluebird, or any other promise library.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -15,3 +16,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Use `.resolve` to resolve a promise
 - Use `.reject` to reject a promise
 - Use `.race` to race promises
+
+---

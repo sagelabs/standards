@@ -3,8 +3,9 @@
 slug: data.represent-interpret-quantitative-variables
 
 ## Description
-This standard covers the representation and interpretation of data on two quantitative variables. 
+This standard covers the representation and interpretation of data on two quantitative variables.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -12,3 +13,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Fit a function to the data; use functions fitted to data to solve problems in the context of the data. Use given functions or choose a function suggested by the context. Emphasize linear, quadratic, and exponential models.
 - Informally assess the fit of a function by plotting and analyzing residuals.
 - Fit a linear function for a scatter plot that suggests a linear association.
+
+---

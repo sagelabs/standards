@@ -5,6 +5,7 @@ slug: cs.analyze-complexity-data-structure-access-operations
 ## Description
 This standard deals with describing complexity in terms of the Big-O notation in common data structure access operations. For example, hash table value lookups, or appending a value to  the end of an array.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -22,3 +23,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Accurately describe the complexity of Splay Tree access, search, insertion, and deletion
 - Accurately describe the complexity of AVL Tree access, search, insertion, and deletion
 - Accurately describe the complexity of KD Tree access, search, insertion, and deletion
+
+---

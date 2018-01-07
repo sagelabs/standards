@@ -5,6 +5,7 @@ slug: cs.identify-linear-collection-data-structures-usage
 ## Description
 This standard deals with the identification and use of linear collection data structures. This includes any predictably ordered collection.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -16,3 +17,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Identify a use case for a Stack
 - Identify a use case for a Queue
 - Identify a use case for a Indexable Ordered Set
+
+---

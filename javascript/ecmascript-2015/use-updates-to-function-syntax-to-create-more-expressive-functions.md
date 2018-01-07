@@ -6,6 +6,7 @@ slug: js.es6-functions
 ## Description
 todo
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -13,3 +14,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Use Generator Functions
 - Use parameter defaults
 - Use the rest operator `...` to capture additional parameters
+
+---

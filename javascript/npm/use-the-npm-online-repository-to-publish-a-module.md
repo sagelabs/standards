@@ -5,6 +5,7 @@ slug: js.npm-publish
 ## Description
 This standard deals with creating open-source packages that are considered well maintained.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -19,3 +20,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Create integration tests for your module
 - Configure authorship and communication references in your `package.json` to provide support for your package
 - Choose a license for your package
+
+---

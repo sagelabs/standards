@@ -5,6 +5,7 @@ slug: data.interpret-single-measure
 ## Description
 This standard covers summarizing, representing, and interpreting data on a single count or measurement variable.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
@@ -12,3 +13,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Represent continuous data with plots on the real number line (histograms and boxplots).
 - Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).
 - Represent categorical data with bar graphs.
+
+---

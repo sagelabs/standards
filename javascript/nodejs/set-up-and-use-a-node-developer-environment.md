@@ -6,6 +6,7 @@ slug: js.node-developer-environment
 ## Description
 This standard deals with the ability to set up and install required components of the Node.js Ecosystem
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -14,3 +15,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Install a package manager for Node.js
 - Install a debugger for Node.js
 - Install build tools for Node.js
+
+---
