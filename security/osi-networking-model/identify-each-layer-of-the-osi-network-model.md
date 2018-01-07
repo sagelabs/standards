@@ -5,6 +5,7 @@ slug: security.identify-osi-layers
 ## Description
 This standard deals with identifying each OSI Layer and explain their role in the stack.
 
+---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
@@ -15,3 +16,5 @@ In order to fully cover this standard, a performance must be recording for each 
 - Identify and Explain the function of the Session Layer
 - Identify and Explain the function of the Presentation Layer
 - Identify and Explain the function of the Application Layer
+
+---
