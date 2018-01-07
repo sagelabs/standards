@@ -13,3 +13,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 - Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified.
 - Represent data on two categorical variables in the form of both stacked and side-by-side bar charts.
 - Represent relationship between one categorical and one quantitative in the form of overlayed histograms and multiple boxplots (one per category).
+
+---
