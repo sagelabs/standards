@@ -4,14 +4,17 @@ topic-namespace: js
 
 ---
 ## Course: Core
-- Identify JavaScript Syntax
-- Identify and Use JavaScript's data types and structures and their respective operations
-- Write Javascript Expressions
-- Evaluate JavaScript Expressions
+- [Identify JavaScript Syntax](./core/identify-javascript-syntax.md)
+- [Identify and Use JavaScript's data types and structures and their respective operations](./core/identify-and-use-javascripts-data-types-and-structures-and-their-respective-operations.md)
+- [Write Javascript Expressions](./core/write-javascript-expressions.md)
+- [Evaluate JavaScript Expressions](./core/evaluate-javascript-expressions.md)
 - [Use control flow structures to control the flow of a program in JavaScript](./core/use-control-flow-structures-to-control-the-flow-of-a-program-in-javascript.md)
-- Use functions in JavaScript
-- Use the standard library to perform common operations on data with JavaScript
-- Perform and manage asynchronous operations in JavaScript
+- [Use functions in JavaScript](./core/use-functions-in-javascript.md)
+- [Use the standard library to perform common operations on data with JavaScript](./core/use-the-standard-library-to-perform-common-operations-on-data-with-javascript.md)
+- [Perform and manage asynchronous operations in JavaScript](./core/perform-and-manage-asynchronous-operations-in-javascript.md)
+- [Use and manipulate the execution context of a function in JavaScript](./core/use-and-manipulate-the-execution-context-of-a-function-in-javascript.md)
+- [Use prototypes to create class-like objects in JavaScript](./core/use-prototypes-to-create-class-like-objects-in-javascript.md)
+- [Use prototypes to inherit methods and properties from another object in JavaScript](./core/use-prototypes-to-inherit-methods-and-properties-from-another-object-in-javascript.md)
 
 ---
 ## Course: Browser APIs
