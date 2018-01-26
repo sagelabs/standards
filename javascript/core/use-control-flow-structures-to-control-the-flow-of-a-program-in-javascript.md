@@ -10,8 +10,8 @@ This standard deals with any use of a control flow structure used to control the
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-* Make a decision about which control flow structure to use in order to execute statements in the correct logical sequence
-* Demonstrate the use of:
+- Make a decision about which control flow structure to use in order to execute statements in the correct logical sequence
+- Demonstrate the use of:
   - if statements
   - switch statements
   - for, for of, for in loops

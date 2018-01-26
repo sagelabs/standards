@@ -9,6 +9,7 @@ topic-namespace: js
 - Write Javascript Expressions
 - Evaluate JavaScript Expressions
 - [Use control flow structures to control the flow of a program in JavaScript](./core/use-control-flow-structures-to-control-the-flow-of-a-program-in-javascript.md)
+- Use functions in JavaScript
 - Use the standard library to perform common operations on data with JavaScript
 - Perform and manage asynchronous operations in JavaScript
 
