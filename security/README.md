@@ -7,7 +7,7 @@ topic-namespace: security
 
 - [Identify vulnerability to and mitigate SQL Injection Attacks](./owasp-top-ten/identify-vulnerability-to-and-mitigate-sql-injection-attacks.md)
 - [Identify vulnerability to and mitigate XSS attacks](./owasp-top-ten/identify-vulnerability-to-and-mitigate-xss-attacks.md)
-
+- [Analyze project dependencies to find identified vulnerabilities](./owasp-top-ten/analyze-project-dependencies-to-find-identified-vulnerabilities.md)
 
 ---
 ## Course: OSI Networking Model
