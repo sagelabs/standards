@@ -16,12 +16,6 @@ topic-namespace: py
 - [Use functions in Python](./core/use-functions-in-python.md)
 - [Use the object-oriented features of Python](./core/use-the-object-oriented-features-of-python.md)
 - [Use Modules to structure your code ](./core/use-modules-to-structure-your-code.md)
-
-
----
-## Course: Data Structures
-
-
 - [Effectively store and manipulate data using Python standard data structures](./data-structures/effectively-store-and-manipulate-data-using-python-standard-data-structures.md)
 - [Accurately describe a wide range of data structures and their relevant uses](./data-structures/accurately-describe-a-wide-range-of-data-structures-and-relevant-uses.md)
 
