@@ -1,4 +1,3 @@
-
 # Identify JavaScript Syntax
 
 slug: js.javascript-syntax

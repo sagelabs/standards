@@ -15,6 +15,7 @@ topic-namespace: js
 - [Use and manipulate the execution context of a function in JavaScript](./core/use-and-manipulate-the-execution-context-of-a-function-in-javascript.md)
 - [Use prototypes to create class-like objects in JavaScript](./core/use-prototypes-to-create-class-like-objects-in-javascript.md)
 - [Use prototypes to inherit methods and properties from another object in JavaScript](./core/use-prototypes-to-inherit-methods-and-properties-from-another-object-in-javascript.md)
+- [Identify and handle exceptions in JavaScript](./core/identify-and-handle-exceptions-in-javascript.md)
 
 ---
 ## Course: Browser APIs
