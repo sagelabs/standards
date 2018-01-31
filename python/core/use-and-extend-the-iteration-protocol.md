@@ -10,11 +10,11 @@ This standard has to do with the use of iterators, the `iter` function, and the 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use for loops to iterate over an iterable
-- Iterate over an iterable without a for loop
-- Distinguish iterators from sequences
-- Identify Python's native iterables
-- Use the `iter` and `next` functions to create an iterable
+0. Use for loops to iterate over an iterable
+1. Iterate over an iterable without a for loop
+2. Distinguish iterators from sequences
+3. Identify Python's native iterables
+4. Use the `iter` and `next` functions to create an iterable
 
 
 

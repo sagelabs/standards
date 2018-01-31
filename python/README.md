@@ -27,5 +27,5 @@ topic-namespace: py
 - [Contrast Functional Programming with Imperative Programming](./functional-programming/contrast-functional-programming-with-imperative-programming.md)
 - [Write pure functions in Python](./functional-programming/write-pure-functions-in-python.md)
 - [Identify and use Python’s functional programming features](./functional-programming/identify-and-use-pythons-functional-programming-features.md)
-- Use comprehensions to transform data
+- [Use comprehensions to transform data](./functional-programming/use-comprehensions-to-transform-data.md)
 - [Use libraries to provide extended support for functional programming](./functional-programming/use-libraries-to-provide-extended-support-for-functional-programming.md)

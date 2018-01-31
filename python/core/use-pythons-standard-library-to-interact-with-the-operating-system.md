@@ -10,10 +10,10 @@ This standard deals with standard library features that must coordinate directly
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use the standard library to read and write to the file system
-- Use the standard library to format data into different file formats
-- Use the standard library to perform network requests
-- Use the standard library to receive network requests
-- Use the standard library to persist data to disk
+0. Use the standard library to read and write to the file system
+1. Use the standard library to format data into different file formats
+2. Use the standard library to perform network requests
+3. Use the standard library to receive network requests
+4. Use the standard library to persist data to disk
 
 ---

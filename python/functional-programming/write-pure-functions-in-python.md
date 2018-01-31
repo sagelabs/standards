@@ -1,6 +1,6 @@
 # Write pure functions in Python
 
-slug: py.write-pure-functions-in-python
+slug: py.pure-functions
 
 ## Description
 todo

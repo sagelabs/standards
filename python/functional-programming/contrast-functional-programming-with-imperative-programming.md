@@ -9,9 +9,9 @@ This standard deals with one's ability to distinguish imperative code from funct
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-- Distinguish between imperative and functional code
-- Evaluate the suitability of a functional style of programming for a given task
-- Refactor iterative code into functional code
+0. Distinguish between imperative and functional code
+1. Evaluate the suitability of a functional style of programming for a given task
+2. Refactor iterative code into functional code
 
 
 ---

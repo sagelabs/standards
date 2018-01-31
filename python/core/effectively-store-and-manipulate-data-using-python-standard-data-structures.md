@@ -9,12 +9,12 @@ This standard deals with the ability to access and transform data effectively. I
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-- Access deeply nested data structures
-- Store data in deeply nested data structures
-- Transform arbitrarily formatted data into another format
-- Format data for transport across a network
-- Encode data in a standard data carrying format (json, xml, csv, etc)
-- Load data into a data structure to support an algorithm's efficient execution 
+0. Access deeply nested data structures
+1. Store data in deeply nested data structures
+2. Transform arbitrarily formatted data into another format
+3. Format data for transport across a network
+4. Encode data in a standard data carrying format (json, xml, csv, etc)
+5. Load data into a data structure to support an algorithm's efficient execution 
 
 
 
