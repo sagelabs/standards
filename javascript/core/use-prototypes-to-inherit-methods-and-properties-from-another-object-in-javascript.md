@@ -9,7 +9,7 @@ This standard covers using the prototype of a constructor function to create a c
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-- Set the prototype of the constructor function to inherit methods on instances produced by the constructor function
-- Modify the instance using an inherited prototype's method
+0. Set the prototype of the constructor function to inherit methods on instances produced by the constructor function
+1. Modify the instance using an inherited prototype's method
 
 ---

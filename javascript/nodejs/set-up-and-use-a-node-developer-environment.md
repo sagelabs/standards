@@ -10,10 +10,10 @@ This standard deals with the ability to set up and install required components o
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Install Node.js on your system
-- Manage versions of Node.js with a version manager
-- Install a package manager for Node.js
-- Install a debugger for Node.js
-- Install build tools for Node.js
+0. Install Node.js on your system
+1. Manage versions of Node.js with a version manager
+2. Install a package manager for Node.js
+3. Install a debugger for Node.js
+4. Install build tools for Node.js
 
 ---

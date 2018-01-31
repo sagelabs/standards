@@ -10,7 +10,7 @@ This standard deals with knowledge of the behavior of `let` and `const` and thei
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use `let` for block-scoped variables
-- Use `const` for variables that will not change
+0. Use `let` for block-scoped variables
+1. Use `const` for variables that will not change
 
 ---

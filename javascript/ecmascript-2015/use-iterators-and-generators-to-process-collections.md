@@ -9,9 +9,9 @@ This standard deals with the iteration protocol in JavaScript as defined in ES6,
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use `for..of` loops to iterate over a collection by value
-- Use generator functions to `yield` a sequence
-- Use a generator to invert control
-- Use a generator to manage asynchronous activity by suspending execution until after a promise has resolved
+0. Use `for..of` loops to iterate over a collection by value
+1. Use generator functions to `yield` a sequence
+2. Use a generator to invert control
+3. Use a generator to manage asynchronous activity by suspending execution until after a promise has resolved
 
 ---

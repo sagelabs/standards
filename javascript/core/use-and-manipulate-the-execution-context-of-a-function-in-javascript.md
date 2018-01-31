@@ -9,10 +9,10 @@ This standard deals with the use of the `call`, `apply`, and `bind` methods, as 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-- Use `bind` to produce a bound function
-- Use `call` and `apply` to call a function with an explicit `this` value
-- Use `this` to store properties on an execution context
-- Use `this` to modify an instance's properties
-- Identify what the value of `this` is given a line in a code snippet
+0. Use `bind` to produce a bound function
+1. Use `call` and `apply` to call a function with an explicit `this` value
+2. Use `this` to store properties on an execution context
+3. Use `this` to modify an instance's properties
+4. Identify what the value of `this` is given a line in a code snippet
 
 ---

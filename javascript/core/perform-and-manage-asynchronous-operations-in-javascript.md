@@ -10,9 +10,9 @@ This standard specifically deals with writing code to perform asynchronous opera
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use callbacks to asynchronously execute code
-- Explain the event loop in JavaScript
-- Use Promises to perform sequential asynchronous operations
-- Use `async` and `await` to create asynchronously resolving generator functions
+0. Use callbacks to asynchronously execute code
+1. Explain the event loop in JavaScript
+2. Use Promises to perform sequential asynchronous operations
+3. Use `async` and `await` to create asynchronously resolving generator functions
 
 ---

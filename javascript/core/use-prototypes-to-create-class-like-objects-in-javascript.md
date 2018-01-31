@@ -9,8 +9,8 @@ This standard covers using the prototype of a constructor function to create a c
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
-- Use a constructor function and the execution context of that function to produce an instance with particular properties
-- Use the prototype of the constructor function to set methods on instances produced by the constructor function
-- Modify the instance using a prototype method
+0. Use a constructor function and the execution context of that function to produce an instance with particular properties
+1. Use the prototype of the constructor function to set methods on instances produced by the constructor function
+2. Modify the instance using a prototype method
 
 ---

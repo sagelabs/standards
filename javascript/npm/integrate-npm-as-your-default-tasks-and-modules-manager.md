@@ -11,9 +11,9 @@ This standard deals with using NPM to handle build tasks and other processes, an
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
 
-- Use `package.json` to manage dependencies
-- Use `package.json` to manage build scripts
-- Use `package.json` to manage testing
-- Use `package.json` to manage a script toolchain
+0. Use `package.json` to manage dependencies
+1. Use `package.json` to manage build scripts
+2. Use `package.json` to manage testing
+3. Use `package.json` to manage a script toolchain
 
 ---

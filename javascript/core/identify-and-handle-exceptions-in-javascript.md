@@ -9,9 +9,9 @@ This standard deals with exception handling in JavaScript, as well as the identi
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Distinguish JavaScript error types
-- Identify the type of exception thrown from a JavaScript stack trace
-- Use a try..catch block to handle an exception
-- Create and throw a custom error type
+0. Distinguish JavaScript error types
+1. Identify the type of exception thrown from a JavaScript stack trace
+2. Use a try..catch block to handle an exception
+3. Create and throw a custom error type
 
 ---

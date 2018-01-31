@@ -1,4 +1,3 @@
-
 # Use the standard library to perform common operations on data with JavaScript
 
 slug: js.standard-library

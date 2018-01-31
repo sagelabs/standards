@@ -1,5 +1,4 @@
-
-# Identify and Use JavaScript's data types and structures and their respective operations
+# Identify and use JavaScript's data types and structures and their respective operations
 
 slug: js.data-types-structures
 
@@ -10,11 +9,11 @@ This standard specifically relates to the operations performed on different data
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Identify primitive types in JavaScript
-- Use primitive operators to operate on primitive types
-- Identify data structures in JavaScript
-- Use built-in data structures in JavaScript
-- Perform primitive operations on data structures in JavaScript
-- Access deeply nested data structures
+0. Identify primitive types in JavaScript
+1. Use primitive operators to operate on primitive types
+2. Identify data structures in JavaScript
+3. Use built-in data structures in JavaScript
+4. Perform primitive operations on data structures in JavaScript
+5. Access deeply nested data structures
 
 ---
