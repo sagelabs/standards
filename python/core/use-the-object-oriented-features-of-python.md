@@ -15,7 +15,7 @@ In order to fully cover this standard, a performance must be recording for each 
 - Define an instance method on a class
 - Define a class method on a class
 - Identify the special methods on the object type
-- Emulate a type by implementing it's methods 
+- Emulate a type by implementing its methods 
 
 
 
