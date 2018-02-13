@@ -20,3 +20,14 @@ topic-namespace: cs
 - Categorize the protocols by layers.
 - Interpret network metrics outputted by different tools.
 - Assemble a HTTP request and response.
+
+
+---
+## Course: Design Patterns
+
+
+- Identify, describe, and implement Creational Design Patterns
+- Identify, describe, and implement Structural Design Patterns
+- Identify, describe, and implement Behavioral Design Patterns
+
+---
