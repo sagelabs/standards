@@ -9,7 +9,7 @@ This standard deals with accurately choosing a unordered collection to solve a p
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Implement a Hash Map and use it to solve a problem
-- Implement a Set and use it to solve a problem
+0. Implement a Hash Map and use it to solve a problem
+1. Implement a Set and use it to solve a problem
 
 ---

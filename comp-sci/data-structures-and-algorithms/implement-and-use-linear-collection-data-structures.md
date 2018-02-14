@@ -9,9 +9,9 @@ This standard deals with accurately choosing a linear collection to solve a prob
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Implement a Linked List and use it to solve a problem
-- Implement a Stack and use it to solve a problem
-- Implement a Queue and use it to solve a problem
-- Implement a Indexable Ordered Sets (arrays, skip lists, etc) to solve a problem
+0. Implement a Linked List and use it to solve a problem
+1. Implement a Stack and use it to solve a problem
+2. Implement a Queue and use it to solve a problem
+3. Implement a Indexable Ordered Sets (arrays, skip lists, etc) to solve a problem
 
 ---

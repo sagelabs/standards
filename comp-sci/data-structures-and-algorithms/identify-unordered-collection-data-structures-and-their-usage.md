@@ -9,9 +9,9 @@ This standard deals with sets that are not predictably ordered, such as hash map
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Identify a Hash Map
-- Identify a Set
-- Identify a use case for a Hash Map
-- Identify a use case for a Set
+0. Identify a Hash Map
+1. Identify a Set
+2. Identify a use case for a Hash Map
+3. Identify a use case for a Set
 
 ---

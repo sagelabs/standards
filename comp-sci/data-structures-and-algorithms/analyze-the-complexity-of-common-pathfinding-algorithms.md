@@ -9,9 +9,9 @@ This standard deals with describing complexity in terms of the Big-O notation in
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Accurately describe the complexity of Djkistra's
-- Accurately describe the complexity of A*
-- Accurately describe the complexity of Breadth-First-Search
-- Accurately describe the complexity of Depth-First-Search in an arboreal graph
+0. Accurately describe the complexity of Djkistra's
+1. Accurately describe the complexity of A*
+2. Accurately describe the complexity of Breadth-First-Search
+3. Accurately describe the complexity of Depth-First-Search in an arboreal graph
 
 ---

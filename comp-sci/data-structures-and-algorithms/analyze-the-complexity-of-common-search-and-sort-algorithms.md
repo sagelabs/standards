@@ -9,8 +9,8 @@ This standard deals with describing complexity in terms of the Big-O notation in
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Analyze and accurately predict the complexity of linear searches
-- Analyze and accurately predict the complexity of other searching algorithms
-- Analyze and accurately predict the complexity of sorting algorithms
+0. Analyze and accurately predict the complexity of linear searches
+1. Analyze and accurately predict the complexity of other searching algorithms
+2. Analyze and accurately predict the complexity of sorting algorithms
 
 ---

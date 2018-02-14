@@ -9,12 +9,12 @@ This standard deals with the identification and classification of graph data str
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Identify a linked list
-- Identify an arboreal graph
-- Identify a binary tree
-- Identify a red-black tree
-- Identify a graph
-- Define directionality, cyclical, connected, complete, and weighted in reference to properties of graphs
-- Classify diagrams of graphs as having directionality or not, being cyclic or acyclic, connected or not, complete or incomplete, weighted or not
+0. Identify a linked list
+1. Identify an arboreal graph
+2. Identify a binary tree
+3. Identify a red-black tree
+4. Identify a graph
+5. Define directionality, cyclical, connected, complete, and weighted in reference to properties of graphs
+6. Classify diagrams of graphs as having directionality or not, being cyclic or acyclic, connected or not, complete or incomplete, weighted or not
 
 ---
