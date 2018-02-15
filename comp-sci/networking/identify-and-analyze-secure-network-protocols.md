@@ -11,6 +11,6 @@ This standard deals with reading the raw data in network protocols and identifyi
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Distinguish between open network protocols and their secure counterparts
-- Distinguish secure traffic from insecure traffic using a packet sniffing tool, eg wireshark
-- Distinguish TCP and UDP handshake protocols from TLS handshake protocols
+0. Distinguish between open network protocols and their secure counterparts
+1. Distinguish secure traffic from insecure traffic using a packet sniffing tool, eg wireshark
+2. Distinguish TCP and UDP handshake protocols from TLS handshake protocols
