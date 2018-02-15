@@ -16,10 +16,11 @@ topic-namespace: cs
 ## Course: Networking
 
 
-- Identify a network’s components and describe their role.
-- Categorize the protocols by layers.
-- Interpret network metrics outputted by different tools.
-- Assemble a HTTP request and response.
+- Analyze and interpret network metrics
+- Identify a network’s components and describe their role
+- Use the HTTP Protocol to assemble an HTTP request and response
+- Identify and analyze network protocols
+- Identify and analyze secure network protocols
 
 
 ---
