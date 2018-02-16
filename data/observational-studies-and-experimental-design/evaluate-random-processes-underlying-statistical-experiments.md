@@ -10,8 +10,8 @@ This standard covers the ability to inferences and justify conclusions from samp
 In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
 
-- Select random samples from data
-- Evaluate the statistical significance of your results based on sample size
-- Compare results from different random sample populations to evaluate a model's effectiveness
+0. Select random samples from data
+1. Evaluate the statistical significance of your results based on sample size
+2. Compare results from different random sample populations to evaluate a model's effectiveness
 
 ---
