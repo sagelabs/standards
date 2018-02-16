@@ -1,10 +1,9 @@
-
 # Use scheduling utilities to automate processes
 
-slug: unix.use-scheduling-utilities-to-automate-processes
+slug: unix.scheduling-utilities
 
 ## Description
-todo
+
 
 
 
@@ -12,9 +11,8 @@ todo
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+0. Accurately analyze `crontab` scheduling sequences and predict the schedule of their execution
+1. Use `crontab` to schedule recurring commands 
 
 
 ---
