@@ -1,4 +1,3 @@
-
 # Search files with grep
 
 slug: unix.search-grep

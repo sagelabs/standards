@@ -1,18 +1,18 @@
-
 # Use secure shell
 
-slug: unix.use-secure-shell
+slug: unix.secure-shell
 
 ## Description
-todo
+This standard covers initiating a secure shell connection to another network node.
 
 ---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+0. Use SFTP to securely transfer files over an insecure network
+1. Recognize the steps of the SSH Handshake Protocol
+2. Generate cryptographic keys for the SSH Handshake using algorithms not yet reported as compromised
+3. Use the `ssh` software to securely connect a shell to another unix system over an insecure network
 
 
 ---
