@@ -13,5 +13,6 @@ In order to fully cover this standard, a performance must be recording for each 
 1. Identify the type of exception thrown from a JavaScript stack trace
 2. Use a try..catch block to handle an exception
 3. Create and throw a custom error type
+4. Use the debugger statement with a JavaScript debugger
 
 ---

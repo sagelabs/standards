@@ -19,5 +19,6 @@ In order to fully cover this standard, a performance must be recorded for each o
 7. Accurately predict the result of complex JavaScript expressions operating on a data structure
 8. Accurately predict the result of complex data structure access operations
 9. Accurately predict the return value of function or constructor
+10. Accurately predict the type of a given expression
 
 ---

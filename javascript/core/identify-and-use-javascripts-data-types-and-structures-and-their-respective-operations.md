@@ -15,5 +15,6 @@ In order to fully cover this standard, a performance must be recording for each 
 3. Use built-in data structures in JavaScript
 4. Perform primitive operations on data structures in JavaScript
 5. Access deeply nested data structures
+6. Functionally iterate over a data structure
 
 ---

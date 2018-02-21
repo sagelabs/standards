@@ -4,7 +4,7 @@
 slug: js.es6-functions
 
 ## Description
-todo
+This standard covers the updates to the function syntax to support more functional programming capabilities in JavaScript.
 
 ---
 ## Assessment Requirements
