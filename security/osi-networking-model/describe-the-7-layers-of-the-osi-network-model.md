@@ -9,7 +9,7 @@ This standard deals with defining, arranging and describing the 7 layers of the 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Arrange the 7 OSI Layers by level of Abstraction
-- Describe the purpose of the OSI model
+0. Arrange the 7 OSI Layers by level of Abstraction
+1. Describe the purpose of the OSI model
 
 ---
