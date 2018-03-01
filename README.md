@@ -15,15 +15,17 @@ Right now, the best examples of complete courses, with standards, and objectives
 - SQL 
 - JavaScript
 - Data
+- Python
+- Linux
+- Computer Science
 
 Currently working on refactoring:
-- Python
-- Java
+  
+
 
 Needs objectives, deeper descriptions:
-- Linux
 - Web
-- Computer Science
+- Java
 
 
 Next Steps for the data model:
