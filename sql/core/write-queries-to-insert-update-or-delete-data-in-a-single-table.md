@@ -10,12 +10,12 @@ This standard deals specifically with writes to the database, using `INSERT`, `U
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Insert a single row of data using the `INSERT` command
-- Insert multiple rows of data using the `INSERT` command
-- Populate a table with the `INSERT INTO` command
-- Update 1 or more columns of data with the `UPDATE` command
-- Use a `WHERE` clause with the `UPDATE` command to conditionally update rows of data
-- Delete data with the `DELETE` command
-- Use a `WHERE` clause with the `DELETE` command to conditionally delete rows of data
+0. Insert a single row of data using the `INSERT` command
+1. Insert multiple rows of data using the `INSERT` command
+2. Populate a table with the `INSERT INTO` command
+3. Update 1 or more columns of data with the `UPDATE` command
+4. Use a `WHERE` clause with the `UPDATE` command to conditionally update rows of data
+5. Delete data with the `DELETE` command
+6. Use a `WHERE` clause with the `DELETE` command to conditionally delete rows of data
 
 ---
