@@ -10,9 +10,9 @@ This standard has to do with the skill of data aggregation from a single table. 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use the `COUNT`, `SUM`, `AVG` functions to reduce a set to a single value
-- Use the `MAX`, `MIN` functions to search for the boundaries of set of data
-- Combine multiple columns' values in the aggregation of a set of data
-- Use `GROUP BY` to aggregate data in subsets of data
+0. Use the `COUNT`, `SUM`, `AVG` functions to reduce a set to a single value
+1. Use the `MAX`, `MIN` functions to search for the boundaries of set of data
+2. Combine multiple columns' values in the aggregation of a set of data
+3. Use `GROUP BY` to aggregate data in subsets of data
 
 ---
