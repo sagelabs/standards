@@ -13,5 +13,6 @@ In order to fully cover this standard, a performance must be recording for each 
 0. Use the `SELECT` command to get data from a table
 1. Use the `WHERE` clause to filter rows of data from a table
 2. Filter the columns returned by a `SELECT` command
+3. Use the `ORDER BY` command to sort a resultset by the value of a column, or multiple columns
 
 ---
