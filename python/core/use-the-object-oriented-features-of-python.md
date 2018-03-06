@@ -1,4 +1,3 @@
-
 # Use the object-oriented features of Python
 
 slug: py.object-oriented
@@ -15,7 +14,7 @@ In order to fully cover this standard, a performance must be recording for each 
 2. Define an instance method on a class
 3. Define a class method on a class
 4. Identify the special methods on the object type
-5. Emulate a type by implementing it's methods 
+5. Emulate a type by implementing it's methods
 
 
 

@@ -1,6 +1,6 @@
 # Use StyleLint to enforce style rules
 
-slug: web.use-stylelint-to-enforce-style-rules
+slug: web.use-stylelint
 
 ## Description
 todo

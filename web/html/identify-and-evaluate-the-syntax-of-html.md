@@ -1,7 +1,6 @@
-
 # Identify and Evaluate the syntax of HTML
 
-slug: web.identify-and-evaluate-the-syntax-of-html
+slug: web.syntax-html
 
 ## Description
 todo

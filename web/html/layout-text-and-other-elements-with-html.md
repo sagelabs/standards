@@ -1,7 +1,6 @@
-
 # Layout text and other elements with HTML
 
-slug: web.layout-text-and-other-elements-with-html
+slug: web.layout-html
 
 ## Description
 todo

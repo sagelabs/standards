@@ -1,17 +1,16 @@
-
 # Write statements to create or modify indices
 
 slug: sql.define-indices
 
 ## Description
-todo
+This standard deals with creation of indicies on a database table
 
 ---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+- Create an index on a database table
+- Modify the properties of an index on a database table
+- Create a clustered index on a database table
 
 ---

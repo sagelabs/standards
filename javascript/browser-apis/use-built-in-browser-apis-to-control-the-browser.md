@@ -9,7 +9,7 @@ This standard specifically deals with using built-in APIs to control aspects of 
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use the Geolocation API to determine a browser's physical location
-- Use browser APIs to manage windows and tabs
+0. Use the Geolocation API to determine a browser's physical location
+1. Use browser APIs to manage windows and tabs
 
 ---

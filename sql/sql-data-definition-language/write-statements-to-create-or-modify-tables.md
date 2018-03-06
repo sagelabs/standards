@@ -1,4 +1,3 @@
-
 # Write statements to create tables
 
 slug: sql.define-tables

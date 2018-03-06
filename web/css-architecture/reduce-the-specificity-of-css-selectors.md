@@ -1,6 +1,6 @@
 # Reduce the specificity of CSS selectors
 
-slug: web.reduce-the-specificity-of-css-selectors
+slug: web.reduce-specificity-css-selectors
 
 ## Description
 todo

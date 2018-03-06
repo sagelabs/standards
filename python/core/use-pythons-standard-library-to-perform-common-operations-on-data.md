@@ -1,4 +1,3 @@
-
 # Use Python’s standard library to perform common operations on data
 
 slug: py.standard-library-data

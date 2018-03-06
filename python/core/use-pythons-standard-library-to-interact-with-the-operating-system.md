@@ -1,4 +1,3 @@
-
 # Use Python’s standard library to interact with the operating system
 
 slug: py.standard-library-operating-system

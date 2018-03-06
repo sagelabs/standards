@@ -1,4 +1,3 @@
-
 # Use and extend the iteration protocol
 
 slug: py.use-iteration-protocol

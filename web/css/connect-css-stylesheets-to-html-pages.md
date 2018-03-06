@@ -1,7 +1,6 @@
-
 # Connect CSS Stylesheets to HTML pages
 
-slug: web.connect-css-stylesheets-to-html-pages
+slug: web.stylesheets
 
 ## Description
 todo

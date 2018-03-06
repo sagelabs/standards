@@ -1,7 +1,6 @@
-
 # Compose an HTML document with valid structure
 
-slug: web.compose-an-html-document-with-valid-structure
+slug: web.html-structure
 
 ## Description
 todo

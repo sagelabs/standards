@@ -1,4 +1,3 @@
-
 # Write statements to create or modify columns
 
 slug: sql.define-columns

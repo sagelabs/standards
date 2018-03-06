@@ -1,7 +1,6 @@
-
 # Use CSS Selectors to target HTML Elements
 
-slug: web.use-css-selectors-to-target-html-elements
+slug: web.css-selectors
 
 ## Description
 todo

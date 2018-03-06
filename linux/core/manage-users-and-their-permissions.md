@@ -1,4 +1,3 @@
-
 # Manage users and their permissions
 
 slug: unix.users-permissions

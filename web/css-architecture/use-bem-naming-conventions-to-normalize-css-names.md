@@ -1,6 +1,6 @@
 # Use `bem` naming conventions to normalize CSS names
 
-slug: web.use-bem-naming-conventions-to-normalize-css-names
+slug: web.bem-naming
 
 ## Description
 todo

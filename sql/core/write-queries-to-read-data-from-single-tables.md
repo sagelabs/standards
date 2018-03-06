@@ -1,4 +1,3 @@
-
 # Write queries to read data from single tables
 
 slug: sql.read-single-table

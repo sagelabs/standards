@@ -1,4 +1,3 @@
-
 # Create a database
 
 slug: sql.create-database

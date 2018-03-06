@@ -1,4 +1,3 @@
-
 # Use new variable declaration keywords to communicate more effectively with other developers
 
 slug: js.new-declaration-keywords

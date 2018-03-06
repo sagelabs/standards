@@ -1,7 +1,6 @@
-
 # Use CSS to define Typography
 
-slug: web.use-css-to-define-typography
+slug: web.css-typography
 
 ## Description
 todo

@@ -1,4 +1,3 @@
-
 # Write queries to read data from multiple related tables
 
 slug: sql.read-multiple-tables

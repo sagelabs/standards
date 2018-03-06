@@ -1,6 +1,6 @@
 # Identify CSS rulesets that separate concerns
 
-slug: web.identify-css-rulesets-that-separate-concerns
+slug: web.css-separate-concerns
 
 ## Description
 todo

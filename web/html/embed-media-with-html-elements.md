@@ -1,7 +1,6 @@
-
 # Embed media with HTML elements
 
-slug: web.embed-media-with-html-elements
+slug: web.embed-media
 
 ## Description
 todo

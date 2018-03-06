@@ -1,4 +1,3 @@
-
 # Write Javascript Expressions
 
 slug: js.write-expressions

@@ -1,4 +1,3 @@
-
 # Use Proxies to define custom behavior for fundamental operations in JavaScript
 
 slug: js.es6-proxies

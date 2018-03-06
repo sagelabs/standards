@@ -1,7 +1,6 @@
-
 # Use Semantic HTML to communicate about the structure of a document
 
-slug: web.use-semantic-html-to-communicate-about-the-structure-of-a-document
+slug: web.semantic-html
 
 ## Description
 todo

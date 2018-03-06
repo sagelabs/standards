@@ -1,4 +1,3 @@
-
 # Write statements to create or modify relationships
 
 slug: sql.define-relationships

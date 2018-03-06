@@ -1,4 +1,3 @@
-
 # Use updates to functions to create more expressive functions
 
 slug: js.es6-functions

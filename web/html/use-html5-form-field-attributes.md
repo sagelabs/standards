@@ -1,7 +1,6 @@
-
 # Use HTML5 form field attributes
 
-slug: web.use-html5-form-field-attributes
+slug: web.html5-form
 
 ## Description
 todo

@@ -1,6 +1,6 @@
 # Distinguish tightly coupled CSS from composable CSS
 
-slug: web.distinguish-tightly-coupled-css-from-composable-css
+slug: web.composable-css
 
 ## Description
 todo

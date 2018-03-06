@@ -1,7 +1,6 @@
-
 # Markup Text with HTML
 
-slug: web.markup-text-with-html
+slug: web.markup-text
 
 ## Description
 todo

@@ -1,4 +1,3 @@
-
 # Identify and use Python’s functional programming features
 
 slug: py.functional-programming-features

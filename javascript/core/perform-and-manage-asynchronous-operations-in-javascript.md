@@ -1,4 +1,3 @@
-
 # Perform and manage asynchronous operations in JavaScript
 
 slug: js.async

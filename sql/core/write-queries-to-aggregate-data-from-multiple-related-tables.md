@@ -1,4 +1,3 @@
-
 # Write queries to aggregate data from multiple related tables
 
 slug: sql.aggregate-multiple-tables

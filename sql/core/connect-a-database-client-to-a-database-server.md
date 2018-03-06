@@ -1,4 +1,3 @@
-
 # Connect a database client to a database server
 
 slug: sql.connect-client

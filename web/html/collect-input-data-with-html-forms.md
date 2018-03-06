@@ -1,7 +1,6 @@
-
 # Collect input data with HTML Forms
 
-slug: web.collect-input-data-with-html-forms
+slug: web.html-forms
 
 ## Description
 todo

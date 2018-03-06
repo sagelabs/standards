@@ -1,4 +1,3 @@
-
 # Attach indices to lookup columns
 
 slug: sql.attach-indices

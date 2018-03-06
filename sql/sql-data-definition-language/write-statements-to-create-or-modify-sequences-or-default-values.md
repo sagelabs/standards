@@ -1,4 +1,3 @@
-
 # Write statements to create or modify sequences or default values
 
 slug: sql.define-sequences-or-default-values

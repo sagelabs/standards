@@ -1,6 +1,6 @@
 # Identify contextual dependency in CSS rules
 
-slug: web.identify-contextual-dependency-in-css-rules
+slug: web.contextual-dependency-css
 
 ## Description
 todo

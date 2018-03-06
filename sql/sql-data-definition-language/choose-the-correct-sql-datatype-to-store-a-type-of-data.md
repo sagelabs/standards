@@ -1,9 +1,7 @@
-
 # Choose the correct SQL datatype to store a type of data
 
 slug: sql.choose-sql-datatype
-
-## Description
+^## Description
 This standard covers the skill of choosing a data type for a column of data in a table based on the desired behavior of the column.
 
 ---

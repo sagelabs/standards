@@ -1,4 +1,3 @@
-
 # Write queries to aggregate data from a single table
 
 slug: sql.aggregate-single-table

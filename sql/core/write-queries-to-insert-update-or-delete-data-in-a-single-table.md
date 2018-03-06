@@ -1,4 +1,3 @@
-
 # Write queries to insert, update or delete data in a single table
 
 slug: sql.write

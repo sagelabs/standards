@@ -1,4 +1,3 @@
-
 # Use new data structures and their features to store data
 
 slug: js.es6-data-structures

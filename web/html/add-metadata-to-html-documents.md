@@ -1,7 +1,6 @@
-
 # Add metadata to HTML Documents
 
-slug: web.add-metadata-to-html-documents
+slug: web.metadata
 
 ## Description
 todo

@@ -9,11 +9,11 @@ This standard covers issuing instructions to cache assets or store data in any a
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Use localstorage to store data
-- Use WebSQL to store data
-- Use Cookies to store data
-- Use Session storage to store data
-- Direct the browser to cache responses
-- Direct the browser to clear data from persistent stores
+0. Use localstorage to store data
+1. Use WebSQL to store data
+2. Use Cookies to store data
+3. Use Session storage to store data
+4. Direct the browser to cache responses
+5. Direct the browser to clear data from persistent stores
 
 ---
