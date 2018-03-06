@@ -11,17 +11,16 @@ In order to fully cover this standard, a performance must be recording for each 
 
 0. Accurately describe the complexity of Array access, search, insertion, and deletion
 1. Accurately describe the complexity of Stack access, search, insertion, and deletion
-2. Here
-3. Accurately describe the complexity of Queue access, search, insertion, and deletion
-4. Accurately describe the complexity of Doubly and Singly Linked List access, search, insertion, and deletion, and contrast the differences
-5. Accurately describe the complexity of Hash Table access, search, insertion, and deletion
-6. Accurately describe the complexity of Skip List access, search, insertion, and deletion
-7. Accurately describe the complexity of Binary Search Tree access, search, insertion, and deletion
-8. Accurately describe the complexity of Cartesian Tree access, search, insertion, and deletion
-9. Accurately describe the complexity of B-Tree access, search, insertion, and deletion
-10. Accurately describe the complexity of Red-Black Tree access, search, insertion, and deletion
-11. Accurately describe the complexity of Splay Tree access, search, insertion, and deletion
-12. Accurately describe the complexity of AVL Tree access, search, insertion, and deletion
-13. Accurately describe the complexity of KD Tree access, search, insertion, and deletion
+2. Accurately describe the complexity of Queue access, search, insertion, and deletion
+3. Accurately describe the complexity of Doubly and Singly Linked List access, search, insertion, and deletion, and contrast the differences
+4. Accurately describe the complexity of Hash Table access, search, insertion, and deletion
+5. Accurately describe the complexity of Skip List access, search, insertion, and deletion
+6. Accurately describe the complexity of Binary Search Tree access, search, insertion, and deletion
+7. Accurately describe the complexity of Cartesian Tree access, search, insertion, and deletion
+8. Accurately describe the complexity of B-Tree access, search, insertion, and deletion
+9. Accurately describe the complexity of Red-Black Tree access, search, insertion, and deletion
+10. Accurately describe the complexity of Splay Tree access, search, insertion, and deletion
+11. Accurately describe the complexity of AVL Tree access, search, insertion, and deletion
+12. Accurately describe the complexity of KD Tree access, search, insertion, and deletion
 
 ---
