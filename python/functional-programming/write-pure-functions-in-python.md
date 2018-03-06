@@ -3,7 +3,7 @@
 slug: py.pure-functions
 
 ## Description
-todo
+This standard deals with the ability to identify and purposefully write pure functions.
 
 ---
 ## Assessment Requirements
