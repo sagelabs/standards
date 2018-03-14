@@ -3,7 +3,7 @@
 slug: cs.implement-graph-data-structures
 
 ## Description
-todo
+This standard deals with the implementation of a graph data structure, containing nodes and edges. Graphs used to show these objectives can be of various types, but each graph type must be covered (for example, if you only show trees, you can't determine if a graph is cyclic.)
 
 ---
 ## Assessment Requirements
