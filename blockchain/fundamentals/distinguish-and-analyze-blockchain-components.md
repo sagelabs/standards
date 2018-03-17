@@ -12,6 +12,6 @@ In order to fully cover this standard, a performance must be recorded for each o
 0. Analyze blocks and their creation process
 1. Analyze the cryptographic concepts on which blockchains run
 2. Distinguish between blocks of different blockchains
-4. Distinguish between transaction-based and account-based model
+3. Distinguish between transaction-based and account-based model
 
 ---
