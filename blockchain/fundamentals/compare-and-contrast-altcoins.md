@@ -7,7 +7,7 @@ This standard deals with identifying altcoins and comparing their usage and goal
 
 ---
 ## Assessment Requirements
-In order to fully cover this standard, a performance must be recording for each of the following objectives:
+In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
 0. Identify and describe altcoins
 1. Analyze the creation of an altcoin

@@ -7,7 +7,7 @@ This standard deals with analyzing and recreating a theoretical blockchain using
 
 ---
 ## Assessment Requirements
-In order to fully cover this standard, a performance must be recording for each of the following objectives:
+In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
 0. Evaluate the source code of existing blockchains 
 1. Select the essential blockchain components 

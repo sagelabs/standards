@@ -7,7 +7,7 @@ This standard deals with identifying and describing novel applications running o
 
 ---
 ## Assessment Requirements
-In order to fully cover this standard, a performance must be recording for each of the following objectives:
+In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
 0. Identify the initial usage of a blockchain
 1. Identify and describe the innovations and pitfals of Bitcoin

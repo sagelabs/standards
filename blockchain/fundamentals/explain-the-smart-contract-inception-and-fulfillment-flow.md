@@ -7,7 +7,7 @@ This standard deals with analyzing how smart contract are created and their fulf
 
 ---
 ## Assessment Requirements
-In order to fully cover this standard, a performance must be recording for each of the following objectives:
+In order to fully cover this standard, a performance must be recorded for each of the following objectives:
 
 0. Identify and characterize a programming language running on the blockchain
 1. Identify and analyze the need for caution when developing smart contracts
