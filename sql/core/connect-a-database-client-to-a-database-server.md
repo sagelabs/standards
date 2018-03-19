@@ -9,10 +9,10 @@ This standard deals with the skill of establishing a connection to a database se
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Connect any database client to a database server on a local host
-- Connect any database client to a database server on a remote host
-- Break down connection URIs into their component elements (protocol, hostname, credentials, port, database name, etc)
-- Assemble connection URIs from component elements
+0. Connect any database client to a database server on a local host
+1. Connect any database client to a database server on a remote host
+2. Break down connection URIs into their component elements (protocol, hostname, credentials, port, database name, etc)
+3. Assemble connection URIs from component elements
 
 
 ---
