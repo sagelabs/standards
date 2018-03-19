@@ -11,5 +11,7 @@ In order to fully cover this standard, a performance must be recording for each 
 
 0. Create a new table
 1. Set the data type or name of columns in a new table
+2. Write statements to add a Trigger to a table
+3. Write statements to add a Rule to a table 
 
 ---

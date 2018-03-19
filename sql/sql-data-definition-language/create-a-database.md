@@ -9,8 +9,8 @@ This standard covers the skill of creating a database
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Create a database
-- Create database users
-- Provision roles for database users
+0. Create a database
+1. Create database users
+2. Provision roles for database users
 
 ---

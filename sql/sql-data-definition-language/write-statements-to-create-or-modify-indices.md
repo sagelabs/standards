@@ -9,8 +9,9 @@ This standard deals with creation of indicies on a database table
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Create an index on a database table
-- Modify the properties of an index on a database table
-- Create a clustered index on a database table
+0. Create an index on a database table
+1. Modify the properties of an index on a database table
+2. Create a clustered index on a database table
+3. Distinguish between effective indicies that improve the performance of table lookups and ineffective indicies that hinder performance
 
 ---
