@@ -14,7 +14,8 @@ In order to fully cover this standard, a performance must be recorded for each o
 2. Transform arbitrarily formatted data into another format
 3. Format data for transport across a network
 4. Encode data in a standard data carrying format (json, xml, csv, etc)
-5. Load data into a data structure to support an algorithm's efficient execution 
+5. Load data into a data structure to support an algorithm's efficient execution
+6. Recognize the rules respective to references in data structures, and their effects on garbage collection
 
 
 

@@ -19,7 +19,8 @@ In order to fully cover this standard, a performance must be recording for each 
 6. Recognize and use mapping types and their respective operations
 7. Recognize and use context management types and their respective operations
 8. Recognize and use date types and their respective operations
-9. Recognize and use enumerators and their respective operations 
+9. Recognize and use enumerators and their respective operations
+10. Recognize and use error types and their respective causes
 
 
 ---
