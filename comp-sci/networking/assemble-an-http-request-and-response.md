@@ -22,6 +22,7 @@ In order to fully cover this standard, a performance must be recording for each 
 9. Identify common request and header pairs, such as `Accept` and `Content-Type`, and their respective contracts
 10. Identify common request headers and use them to modify the response before it is sent
 11. Identify common response headers and use them to make decisions about the response after it is received
+12. Use HTTP Cookies to persist data across requests between a server and a client
 
 
 ---

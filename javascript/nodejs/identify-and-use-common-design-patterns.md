@@ -15,5 +15,7 @@ In order to fully cover this standard, a performance must be recording for each 
 3. Use industry conventions to handle synchronous exceptions
 4. Use industry conventions to handle type errors
 5. Use industry conventions to catch asynchronous errors
+6. Identify and use the revealing module pattern
+7. Use a linter with JavaScript
 
 ---
