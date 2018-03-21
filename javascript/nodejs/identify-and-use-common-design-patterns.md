@@ -17,5 +17,6 @@ In order to fully cover this standard, a performance must be recording for each 
 5. Use industry conventions to catch asynchronous errors
 6. Identify and use the revealing module pattern
 7. Use a linter with JavaScript
+8. Distinguish between operational and programmer error
 
 ---
