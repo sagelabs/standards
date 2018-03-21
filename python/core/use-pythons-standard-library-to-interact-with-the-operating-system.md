@@ -14,5 +14,6 @@ In order to fully cover this standard, a performance must be recording for each 
 2. Use the standard library to perform network requests
 3. Use the standard library to receive network requests
 4. Use the standard library to persist data to disk
+5. Use the standard library to interact with input and output streams
 
 ---
