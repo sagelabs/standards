@@ -21,6 +21,7 @@ In order to fully cover this standard, a performance must be recording for each 
 8. Recognize and use date types and their respective operations
 9. Recognize and use enumerators and their respective operations
 10. Recognize and use error types and their respective causes
+11. Recognize and use binary types and their respective operations
 
 
 ---

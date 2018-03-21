@@ -16,8 +16,7 @@ In order to fully cover this standard, a performance must be recording for each 
 2. Demonstrate the use of for loops
 3. Demonstrate the use of while loops
 4. Demonstrate the use of creating and calling functions
-
-
+5. Demonstrate the use of deferred execution of a code block
 
 
 ---
