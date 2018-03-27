@@ -13,5 +13,6 @@ In order to fully cover this standard, a performance must be recording for each 
 1. Set the data type or name of columns in a new table
 2. Write statements to add a Trigger to a table
 3. Write statements to add a Rule to a table 
+4. Write statements to add Primary or Foreign Keys to a new table
 
 ---
