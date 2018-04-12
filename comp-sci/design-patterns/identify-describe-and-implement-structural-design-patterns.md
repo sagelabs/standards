@@ -1,4 +1,4 @@
-# Identify, describe, and implement Creational Design Patterns
+# Identify, describe, and implement Structural Design Patterns
 
 slug: cs.structural-patterns
 
