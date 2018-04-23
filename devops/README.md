@@ -26,12 +26,12 @@ topic-namespace: devops
 ---
 ## Course: AWS Lambda
 
-- Create an AWS Lambda Job
-  - create a script that can be run on aws lambda
-  - package a script and its dependencies for use on aws lambda 
+- Create an AWS Lambda Function
+  - create a script that can be run on AWS Lambda
+  - package a script and its dependencies for use on AWS Lambda
   - schedule a function on AWS lambda
 - Deploy an AWS Lamba Job using Apex
-  - connect apex to aws
-  - manage environment variables with apex
-  - deploy aws lambda functions using apex
-  - view function logs with apex
+  - connect Apex to AWS
+  - manage environment variables with Apex
+  - deploy AWS Lambda functions using Apex
+  - view function logs with Apex
