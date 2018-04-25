@@ -13,5 +13,5 @@ In order to fully cover this standard, a performance must be recorded for each o
 1. Analyze the cryptographic concepts on which blockchains run
 2. Distinguish between blocks of different blockchains
 3. Distinguish between transaction-based and account-based model
-
+4. Identify the high-level components that form a blockchain
 ---
